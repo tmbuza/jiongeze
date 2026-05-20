@@ -1,0 +1,17 @@
+{
+  "hash": "3e79e8dfd23f1170603040ca343ab0b9",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"\"\nengine: knitr\nformat:\n  html:\n    body-classes: front-page\n---\n\n<div style=\"text-align: center; margin-top: 1.5em;\">\n  <img src=\"assets/images/cover/cdi-jiongeze-long.png\" width=\"75%\" />\n</div>\n\n<div style=\"text-align: center; font-style: normal; margin-top: 1em;\">\nJiongeze · Updated {{< meta date >}}\n</div>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

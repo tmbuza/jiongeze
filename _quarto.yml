@@ -1,0 +1,74 @@
+project:
+  type: book
+  output-dir: docs
+
+bibliography: library/references.bib
+date: last-modified
+date-format: "MMM YYYY"
+
+book:
+  title: "Jiongeze"
+  subtitle: "From Knowledge to Opportunity"
+
+  chapters:
+    - index.qmd
+
+    - part: "Jiongeze"
+      chapters:
+        - 01-about-jiongeze.qmd
+        - 02-youth-initiative.qmd
+        - 03-idea-bank.qmd
+        - 04-community-projects.qmd
+        - 05-ambassador-pathway.qmd
+
+    - part: "Learning Pathway"
+      chapters:
+        - learning/01-computer-confidence.qmd
+        - learning/02-keyboard-and-typing.qmd
+        - learning/03-files-and-folders.qmd
+        - learning/04-opening-files.qmd
+        - learning/05-community-observation.qmd
+        - learning/06-understanding-flyers.qmd
+        - learning/07-sharing-files.qmd
+        - learning/08-first-community-project.qmd
+
+    - part: "Journeys"
+      chapters:
+        - journeys/hamis-idd.qmd
+
+    - part: "Projects"
+      chapters:
+        - projects/flyer-distribution.qmd
+        - projects/brochure-support.qmd
+        - projects/community-message-design.qmd
+
+    - part: "Resources"
+      chapters:
+        - resources/swahili-english-terms.qmd
+        - resources/computer-basics.qmd
+        - resources/printing-workflow.qmd
+
+    - 999-appendix.qmd
+
+
+format:
+  html:
+    theme: cosmo  
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    number-depth: 2
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-icon: true
+    css: assets/css/cdi.css
+    code-fold: true
+    mermaid:
+      theme: forest
+
+execute:
+  echo: true
+  warning: false
+  message: false
+  freeze: auto
+  working-dir: .

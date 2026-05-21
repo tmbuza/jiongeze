@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>keyboard-and-typing – Jiongeze</title>
+<title>Keyboard and Typing – Jiongeze</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -70,6 +105,10 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<meta name="mermaid-theme" content="forest">
+<script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../assets/css/cdi.css">
@@ -84,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../learning/01-computer-confidence.html">Learning Pathway</a></li><li class="breadcrumb-item"><a href="../learning/02-keyboard-and-typing.html"><span class="chapter-title">02-keyboard-and-typing.html</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../learning/01-computer-confidence.html">Learning Pathway</a></li><li class="breadcrumb-item"><a href="../learning/02-keyboard-and-typing.html"><span class="chapter-title">Keyboard and Typing</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -125,27 +164,28 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01-about-jiongeze.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">01-about-jiongeze.html</span></a>
+  <a href="../01-about-jiongeze.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About Jiongeze</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../02-youth-initiative.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">02-youth-initiative.html</span></a>
+  <a href="../02-youth-initiative.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Youth Initiative</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../03-idea-bank.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">03-idea-bank.html</span></a>
+  <a href="../03-idea-bank.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Idea Bank</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../04-community-projects.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">04-community-projects.html</span></a>
+  <a href="../04-community-projects.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Community Projects</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../05-ambassador-pathway.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">05-ambassador-pathway.html</span></a>
+  <a href="../05-ambassador-pathway.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ambassador Pathway</span></a>
   </div>
 </li>
       </ul>
@@ -161,42 +201,42 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/01-computer-confidence.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">01-computer-confidence.html</span></a>
+  <a href="../learning/01-computer-confidence.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Computer Confidence</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/02-keyboard-and-typing.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">02-keyboard-and-typing.html</span></a>
+  <a href="../learning/02-keyboard-and-typing.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Keyboard and Typing</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/03-files-and-folders.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">03-files-and-folders.html</span></a>
+  <a href="../learning/03-files-and-folders.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Files and Folders</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/04-opening-files.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">04-opening-files.html</span></a>
+  <a href="../learning/04-opening-files.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Opening Files</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/05-community-observation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">05-community-observation.html</span></a>
+  <a href="../learning/05-community-observation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Community Observation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/06-understanding-flyers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">06-understanding-flyers.html</span></a>
+  <a href="../learning/06-understanding-flyers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Understanding Flyers</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/07-sharing-files.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">07-sharing-files.html</span></a>
+  <a href="../learning/07-sharing-files.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sharing Files</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/08-first-community-project.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">08-first-community-project.html</span></a>
+  <a href="../learning/08-first-community-project.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">My First Community Project</span></a>
   </div>
 </li>
       </ul>
@@ -212,7 +252,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../journeys/hamis-idd.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">hamis-idd.html</span></a>
+  <a href="../journeys/hamis-idd.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Journey: Hamis Idd</span></a>
   </div>
 </li>
       </ul>
@@ -228,17 +268,17 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../projects/flyer-distribution.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">flyer-distribution.html</span></a>
+  <a href="../projects/flyer-distribution.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project: Flyer Distribution</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../projects/brochure-support.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">brochure-support.html</span></a>
+  <a href="../projects/brochure-support.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project: Brochure Support</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../projects/community-message-design.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">community-message-design.html</span></a>
+  <a href="../projects/community-message-design.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project: Community Message Design</span></a>
   </div>
 </li>
       </ul>
@@ -254,24 +294,29 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/swahili-english-terms.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">swahili-english-terms.html</span></a>
+  <a href="../resources/jiongeze-learning-map.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Jiongeze Learning Map</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/computer-basics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">computer-basics.html</span></a>
+  <a href="../resources/swahili-english-terms.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Swahili and English Terms</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/printing-workflow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">printing-workflow.html</span></a>
+  <a href="../resources/computer-basics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Computer Basics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/printing-workflow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Printing Workflow</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../999-appendix.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">999-appendix.html</span></a>
+  <a href="../999-appendix.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Appendix</span></a>
   </div>
 </li>
     </ul>
@@ -279,14 +324,35 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#learning-to-type" id="toc-learning-to-type" class="nav-link active" data-scroll-target="#learning-to-type">Learning to Type</a></li>
+  <li><a href="#common-keyboard-sections" id="toc-common-keyboard-sections" class="nav-link" data-scroll-target="#common-keyboard-sections">Common Keyboard Sections</a>
+  <ul class="collapse">
+  <li><a href="#letters" id="toc-letters" class="nav-link" data-scroll-target="#letters">Letters</a></li>
+  <li><a href="#numbers" id="toc-numbers" class="nav-link" data-scroll-target="#numbers">Numbers</a></li>
+  <li><a href="#space-bar" id="toc-space-bar" class="nav-link" data-scroll-target="#space-bar">Space Bar</a></li>
+  <li><a href="#enter-key" id="toc-enter-key" class="nav-link" data-scroll-target="#enter-key">Enter Key</a></li>
+  <li><a href="#backspace-key" id="toc-backspace-key" class="nav-link" data-scroll-target="#backspace-key">Backspace Key</a></li>
+  <li><a href="#shift-key" id="toc-shift-key" class="nav-link" data-scroll-target="#shift-key">Shift Key</a></li>
+  </ul></li>
+  <li><a href="#keyboard-layout" id="toc-keyboard-layout" class="nav-link" data-scroll-target="#keyboard-layout">Keyboard Layout</a></li>
+  <li><a href="#practice-activity-1" id="toc-practice-activity-1" class="nav-link" data-scroll-target="#practice-activity-1">Practice Activity 1</a></li>
+  <li><a href="#practice-activity-2" id="toc-practice-activity-2" class="nav-link" data-scroll-target="#practice-activity-2">Practice Activity 2</a></li>
+  <li><a href="#practice-activity-3" id="toc-practice-activity-3" class="nav-link" data-scroll-target="#practice-activity-3">Practice Activity 3</a></li>
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../learning/01-computer-confidence.html">Learning Pathway</a></li><li class="breadcrumb-item"><a href="../learning/02-keyboard-and-typing.html"><span class="chapter-title">02-keyboard-and-typing.html</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../learning/01-computer-confidence.html">Learning Pathway</a></li><li class="breadcrumb-item"><a href="../learning/02-keyboard-and-typing.html"><span class="chapter-title">Keyboard and Typing</span></a></li></ol></nav>
 <div class="quarto-title">
+<h1 class="title"><span class="chapter-title">Keyboard and Typing</span></h1>
 </div>
 
 
@@ -309,8 +375,161 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="cdi-message">
+<ul>
+<li><strong>ID:</strong> JIO-L02</li>
+<li><strong>Type:</strong> Learning</li>
+<li><strong>Audience:</strong> Beginners</li>
+<li><strong>Theme:</strong> Typing, Practice</li>
+</ul>
+</div>
+<section id="learning-to-type" class="level2">
+<h2 class="anchored" data-anchor-id="learning-to-type">Learning to Type</h2>
+<p>The keyboard helps us communicate with computers.</p>
+<p>We use keyboards to:</p>
+<ul>
+<li>Write words</li>
+<li>Enter numbers</li>
+<li>Search for information</li>
+<li>Create documents</li>
+<li>Send messages</li>
+</ul>
+<p>Typing is a skill that improves through practice.</p>
+<p>You do not need to type fast at the beginning.</p>
+<p>Start slowly.</p>
+<p>Accuracy becomes speed over time.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Do not compare your beginning with someone else’s experience.</p>
+<p>Practice creates progress.</p>
+</div>
+</div>
+</section>
+<section id="common-keyboard-sections" class="level2">
+<h2 class="anchored" data-anchor-id="common-keyboard-sections">Common Keyboard Sections</h2>
+<section id="letters" class="level3">
+<h3 class="anchored" data-anchor-id="letters">Letters</h3>
+<p>Used to type words.</p>
+</section>
+<section id="numbers" class="level3">
+<h3 class="anchored" data-anchor-id="numbers">Numbers</h3>
+<p>Used to type numbers and calculations.</p>
+</section>
+<section id="space-bar" class="level3">
+<h3 class="anchored" data-anchor-id="space-bar">Space Bar</h3>
+<p>Creates spaces between words.</p>
+</section>
+<section id="enter-key" class="level3">
+<h3 class="anchored" data-anchor-id="enter-key">Enter Key</h3>
+<p>Moves to a new line or confirms actions.</p>
+</section>
+<section id="backspace-key" class="level3">
+<h3 class="anchored" data-anchor-id="backspace-key">Backspace Key</h3>
+<p>Deletes text behind the cursor.</p>
+</section>
+<section id="shift-key" class="level3">
+<h3 class="anchored" data-anchor-id="shift-key">Shift Key</h3>
+<p>Helps create capital letters and symbols.</p>
+</section>
+</section>
+<section id="keyboard-layout" class="level2">
+<h2 class="anchored" data-anchor-id="keyboard-layout">Keyboard Layout</h2>
+<div class="cell" data-layout-align="default">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>flowchart TD</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>A[Keyboard]</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>A --&gt; B[Letters A-Z]</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>A --&gt; C[Numbers 0-9]</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>A --&gt; D[Space Bar]</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>A --&gt; E[Enter]</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>A --&gt; F[Backspace]</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>A --&gt; G[Shift]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+
+A[Keyboard]
+
+A --&gt; B[Letters A-Z]
+
+A --&gt; C[Numbers 0-9]
+
+A --&gt; D[Space Bar]
+
+A --&gt; E[Enter]
+
+A --&gt; F[Backspace]
+
+A --&gt; G[Shift]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="practice-activity-1" class="level2">
+<h2 class="anchored" data-anchor-id="practice-activity-1">Practice Activity 1</h2>
+<p>Type the following words slowly:</p>
+<pre><code>Jiongeze
+Learning
+Community
+Computer
+Opportunity</code></pre>
+<p>Repeat several times.</p>
+</section>
+<section id="practice-activity-2" class="level2">
+<h2 class="anchored" data-anchor-id="practice-activity-2">Practice Activity 2</h2>
+<p>Type your own information:</p>
+<p>Name:</p>
+<hr>
+<p>Favorite activity:</p>
+<hr>
+<p>Dream job:</p>
+<hr>
+<p>Community:</p>
+<hr>
+</section>
+<section id="practice-activity-3" class="level2">
+<h2 class="anchored" data-anchor-id="practice-activity-3">Practice Activity 3</h2>
+<p>Practice numbers:</p>
+<pre><code>1 2 3 4 5 6 7 8 9 10</code></pre>
+<p>Then practice:</p>
+<pre><code>10 9 8 7 6 5 4 3 2 1</code></pre>
+</section>
+<section id="reflection" class="level2">
+<h2 class="anchored" data-anchor-id="reflection">Reflection</h2>
+<p>Think about these questions:</p>
+<ol type="1">
+<li><p>Which keys were easiest to find?</p></li>
+<li><p>Which keys were difficult?</p></li>
+<li><p>How did typing feel today?</p></li>
+<li><p>What would I like to practice more?</p></li>
+</ol>
+<hr>
+<p><em>“Small practice today becomes confidence tomorrow.”</em></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -716,13 +935,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../learning/01-computer-confidence.html" class="pagination-link" aria-label="01-computer-confidence.html">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">01-computer-confidence.html</span></span>
+      <a href="../learning/01-computer-confidence.html" class="pagination-link" aria-label="Computer Confidence">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Computer Confidence</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../learning/03-files-and-folders.html" class="pagination-link" aria-label="03-files-and-folders.html">
-        <span class="nav-page-text"><span class="chapter-title">03-files-and-folders.html</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../learning/03-files-and-folders.html" class="pagination-link" aria-label="Files and Folders">
+        <span class="nav-page-text"><span class="chapter-title">Files and Folders</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

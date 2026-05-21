@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>first-community-project – Jiongeze</title>
+<title>My First Community Project – Jiongeze</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -70,6 +105,10 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<meta name="mermaid-theme" content="forest">
+<script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../assets/css/cdi.css">
@@ -84,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../learning/01-computer-confidence.html">Learning Pathway</a></li><li class="breadcrumb-item"><a href="../learning/08-first-community-project.html"><span class="chapter-title">08-first-community-project.html</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../learning/01-computer-confidence.html">Learning Pathway</a></li><li class="breadcrumb-item"><a href="../learning/08-first-community-project.html"><span class="chapter-title">My First Community Project</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -125,27 +164,28 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01-about-jiongeze.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">01-about-jiongeze.html</span></a>
+  <a href="../01-about-jiongeze.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About Jiongeze</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../02-youth-initiative.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">02-youth-initiative.html</span></a>
+  <a href="../02-youth-initiative.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Youth Initiative</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../03-idea-bank.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">03-idea-bank.html</span></a>
+  <a href="../03-idea-bank.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Idea Bank</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../04-community-projects.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">04-community-projects.html</span></a>
+  <a href="../04-community-projects.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Community Projects</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../05-ambassador-pathway.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">05-ambassador-pathway.html</span></a>
+  <a href="../05-ambassador-pathway.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ambassador Pathway</span></a>
   </div>
 </li>
       </ul>
@@ -161,42 +201,42 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/01-computer-confidence.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">01-computer-confidence.html</span></a>
+  <a href="../learning/01-computer-confidence.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Computer Confidence</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/02-keyboard-and-typing.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">02-keyboard-and-typing.html</span></a>
+  <a href="../learning/02-keyboard-and-typing.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Keyboard and Typing</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/03-files-and-folders.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">03-files-and-folders.html</span></a>
+  <a href="../learning/03-files-and-folders.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Files and Folders</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/04-opening-files.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">04-opening-files.html</span></a>
+  <a href="../learning/04-opening-files.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Opening Files</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/05-community-observation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">05-community-observation.html</span></a>
+  <a href="../learning/05-community-observation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Community Observation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/06-understanding-flyers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">06-understanding-flyers.html</span></a>
+  <a href="../learning/06-understanding-flyers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Understanding Flyers</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/07-sharing-files.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">07-sharing-files.html</span></a>
+  <a href="../learning/07-sharing-files.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sharing Files</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/08-first-community-project.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">08-first-community-project.html</span></a>
+  <a href="../learning/08-first-community-project.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">My First Community Project</span></a>
   </div>
 </li>
       </ul>
@@ -212,7 +252,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../journeys/hamis-idd.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">hamis-idd.html</span></a>
+  <a href="../journeys/hamis-idd.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Journey: Hamis Idd</span></a>
   </div>
 </li>
       </ul>
@@ -228,17 +268,17 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../projects/flyer-distribution.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">flyer-distribution.html</span></a>
+  <a href="../projects/flyer-distribution.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project: Flyer Distribution</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../projects/brochure-support.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">brochure-support.html</span></a>
+  <a href="../projects/brochure-support.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project: Brochure Support</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../projects/community-message-design.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">community-message-design.html</span></a>
+  <a href="../projects/community-message-design.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project: Community Message Design</span></a>
   </div>
 </li>
       </ul>
@@ -254,24 +294,29 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/swahili-english-terms.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">swahili-english-terms.html</span></a>
+  <a href="../resources/jiongeze-learning-map.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Jiongeze Learning Map</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/computer-basics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">computer-basics.html</span></a>
+  <a href="../resources/swahili-english-terms.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Swahili and English Terms</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/printing-workflow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">printing-workflow.html</span></a>
+  <a href="../resources/computer-basics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Computer Basics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/printing-workflow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Printing Workflow</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../999-appendix.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">999-appendix.html</span></a>
+  <a href="../999-appendix.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Appendix</span></a>
   </div>
 </li>
     </ul>
@@ -279,14 +324,38 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#putting-learning-into-action" id="toc-putting-learning-into-action" class="nav-link active" data-scroll-target="#putting-learning-into-action">Putting Learning into Action</a></li>
+  <li><a href="#project-steps" id="toc-project-steps" class="nav-link" data-scroll-target="#project-steps">Project Steps</a></li>
+  <li><a href="#example-community-projects" id="toc-example-community-projects" class="nav-link" data-scroll-target="#example-community-projects">Example Community Projects</a>
+  <ul class="collapse">
+  <li><a href="#information-flyer" id="toc-information-flyer" class="nav-link" data-scroll-target="#information-flyer">Information Flyer</a></li>
+  <li><a href="#community-clean-up-activity" id="toc-community-clean-up-activity" class="nav-link" data-scroll-target="#community-clean-up-activity">Community Clean-Up Activity</a></li>
+  <li><a href="#learning-support-activity" id="toc-learning-support-activity" class="nav-link" data-scroll-target="#learning-support-activity">Learning Support Activity</a></li>
+  </ul></li>
+  <li><a href="#my-first-project" id="toc-my-first-project" class="nav-link" data-scroll-target="#my-first-project">My First Project</a>
+  <ul class="collapse">
+  <li><a href="#project-name" id="toc-project-name" class="nav-link" data-scroll-target="#project-name">Project Name</a></li>
+  <li><a href="#problem-or-need" id="toc-problem-or-need" class="nav-link" data-scroll-target="#problem-or-need">Problem or Need</a></li>
+  <li><a href="#who-does-it-help" id="toc-who-does-it-help" class="nav-link" data-scroll-target="#who-does-it-help">Who Does It Help?</a></li>
+  <li><a href="#resources-needed" id="toc-resources-needed" class="nav-link" data-scroll-target="#resources-needed">Resources Needed</a></li>
+  <li><a href="#people-who-can-help" id="toc-people-who-can-help" class="nav-link" data-scroll-target="#people-who-can-help">People Who Can Help</a></li>
+  <li><a href="#first-step" id="toc-first-step" class="nav-link" data-scroll-target="#first-step">First Step</a></li>
+  </ul></li>
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../learning/01-computer-confidence.html">Learning Pathway</a></li><li class="breadcrumb-item"><a href="../learning/08-first-community-project.html"><span class="chapter-title">08-first-community-project.html</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../learning/01-computer-confidence.html">Learning Pathway</a></li><li class="breadcrumb-item"><a href="../learning/08-first-community-project.html"><span class="chapter-title">My First Community Project</span></a></li></ol></nav>
 <div class="quarto-title">
+<h1 class="title"><span class="chapter-title">My First Community Project</span></h1>
 </div>
 
 
@@ -309,8 +378,177 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="cdi-message">
+<ul>
+<li><strong>ID:</strong> JIO-L08</li>
+<li><strong>Type:</strong> Learning</li>
+<li><strong>Audience:</strong> Learners</li>
+<li><strong>Theme:</strong> Practice, Action, Community</li>
+</ul>
+</div>
+<section id="putting-learning-into-action" class="level2">
+<h2 class="anchored" data-anchor-id="putting-learning-into-action">Putting Learning into Action</h2>
+<p>You have now learned:</p>
+<p>✓ Computer confidence</p>
+<p>✓ Keyboard and typing</p>
+<p>✓ Files and folders</p>
+<p>✓ Opening files</p>
+<p>✓ Community observation</p>
+<p>✓ Understanding flyers</p>
+<p>✓ Sharing files</p>
+<p>Now it is time to use these skills.</p>
+<p>Projects help transform learning into action.</p>
+<p>Remember:</p>
+<p>Projects do not need to begin as large activities.</p>
+<p>Small actions can create meaningful results.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Start small.</p>
+<p>Learn by doing.</p>
+<p>Improve as you continue.</p>
+</div>
+</div>
+</section>
+<section id="project-steps" class="level2">
+<h2 class="anchored" data-anchor-id="project-steps">Project Steps</h2>
+<div class="cell" data-layout-align="default">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>flowchart LR</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>A[Observe]</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>A --&gt; B[Find an Idea]</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>B --&gt; C[Plan]</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>C --&gt; D[Take Action]</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>D --&gt; E[Share]</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>E --&gt; F[Reflect]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+
+A[Observe]
+
+A --&gt; B[Find an Idea]
+
+B --&gt; C[Plan]
+
+C --&gt; D[Take Action]
+
+D --&gt; E[Share]
+
+E --&gt; F[Reflect]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="example-community-projects" class="level2">
+<h2 class="anchored" data-anchor-id="example-community-projects">Example Community Projects</h2>
+<section id="information-flyer" class="level3">
+<h3 class="anchored" data-anchor-id="information-flyer">Information Flyer</h3>
+<p>Goal:</p>
+<p>Share useful information with others.</p>
+<p>Possible skills:</p>
+<ul>
+<li>Communication</li>
+<li>Typing</li>
+<li>Design</li>
+<li>Organization</li>
+</ul>
+<hr>
+</section>
+<section id="community-clean-up-activity" class="level3">
+<h3 class="anchored" data-anchor-id="community-clean-up-activity">Community Clean-Up Activity</h3>
+<p>Goal:</p>
+<p>Help improve local surroundings.</p>
+<p>Possible skills:</p>
+<ul>
+<li>Teamwork</li>
+<li>Planning</li>
+<li>Leadership</li>
+</ul>
+<hr>
+</section>
+<section id="learning-support-activity" class="level3">
+<h3 class="anchored" data-anchor-id="learning-support-activity">Learning Support Activity</h3>
+<p>Goal:</p>
+<p>Help someone learn a skill.</p>
+<p>Possible skills:</p>
+<ul>
+<li>Teaching</li>
+<li>Communication</li>
+<li>Leadership</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="my-first-project" class="level2">
+<h2 class="anchored" data-anchor-id="my-first-project">My First Project</h2>
+<section id="project-name" class="level3">
+<h3 class="anchored" data-anchor-id="project-name">Project Name</h3>
+<hr>
+</section>
+<section id="problem-or-need" class="level3">
+<h3 class="anchored" data-anchor-id="problem-or-need">Problem or Need</h3>
+<hr>
+<hr>
+</section>
+<section id="who-does-it-help" class="level3">
+<h3 class="anchored" data-anchor-id="who-does-it-help">Who Does It Help?</h3>
+<hr>
+<hr>
+</section>
+<section id="resources-needed" class="level3">
+<h3 class="anchored" data-anchor-id="resources-needed">Resources Needed</h3>
+<hr>
+<hr>
+</section>
+<section id="people-who-can-help" class="level3">
+<h3 class="anchored" data-anchor-id="people-who-can-help">People Who Can Help</h3>
+<hr>
+<hr>
+</section>
+<section id="first-step" class="level3">
+<h3 class="anchored" data-anchor-id="first-step">First Step</h3>
+<hr>
+<hr>
+</section>
+</section>
+<section id="reflection" class="level2">
+<h2 class="anchored" data-anchor-id="reflection">Reflection</h2>
+<p>Think about these questions:</p>
+<ol type="1">
+<li><p>What project did I choose?</p></li>
+<li><p>What skills did I use?</p></li>
+<li><p>What was easy?</p></li>
+<li><p>What was difficult?</p></li>
+<li><p>What would I improve next time?</p></li>
+</ol>
+<hr>
+<p>Congratulations.</p>
+<p>You completed the first Jiongeze Learning Pathway.</p>
+<p><em>“Learning becomes powerful when it creates action.”</em></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -716,13 +954,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../learning/07-sharing-files.html" class="pagination-link" aria-label="07-sharing-files.html">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">07-sharing-files.html</span></span>
+      <a href="../learning/07-sharing-files.html" class="pagination-link" aria-label="Sharing Files">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Sharing Files</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../journeys/hamis-idd.html" class="pagination-link" aria-label="hamis-idd.html">
-        <span class="nav-page-text"><span class="chapter-title">hamis-idd.html</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../journeys/hamis-idd.html" class="pagination-link" aria-label="Journey: Hamis Idd">
+        <span class="nav-page-text"><span class="chapter-title">Journey: Hamis Idd</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

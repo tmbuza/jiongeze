@@ -15,6 +15,7 @@ book:
 
     - part: "Jiongeze"
       chapters:
+        - 00-preface.qmd
         - 01-about-jiongeze.qmd
         - 02-youth-initiative.qmd
         - 03-idea-bank.qmd

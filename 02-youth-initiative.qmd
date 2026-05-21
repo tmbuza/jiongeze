@@ -1,0 +1,114 @@
+# Youth Initiative
+
+:::cdi-message
+- **ID:** JIO-002
+- **Type:** Foundation
+- **Audience:** Youth, Communities
+- **Theme:** Community, Participation
+:::
+
+## Young People Can Create Change
+
+Communities grow when people participate.
+
+Young people have ideas.
+
+Young people have energy.
+
+Young people have creativity.
+
+Young people have the ability to help build better futures.
+
+Jiongeze encourages youth to learn, practice, and create meaningful impact in their communities.
+
+::: {.callout-tip}
+You do not need to wait until you know everything.
+
+Start with what you have.
+
+Learn what you need.
+
+Grow as you continue.
+:::
+
+## Small Actions Matter
+
+Many important things begin with small actions:
+
+* Helping someone learn
+* Sharing useful information
+* Joining community activities
+* Solving simple problems
+* Creating ideas
+
+Small actions can grow into larger opportunities.
+
+## Community Growth
+
+```{mermaid}
+flowchart TD
+
+A[Learn Skills] --> B[Practice]
+B --> C[Help Others]
+C --> D[Strengthen Community]
+D --> E[Create Opportunity]
+
+```
+
+Learning is not only personal growth.
+
+Learning can also help families, communities, and future generations.
+
+## Areas Where Youth Can Contribute
+
+### Education
+
+Helping others learn and share knowledge.
+
+### Environment
+
+Supporting cleanliness, gardens, and community projects.
+
+### Communication
+
+Creating flyers, posters, and messages.
+
+### Creativity
+
+Designing ideas and solving problems.
+
+### Technology
+
+Learning computers and digital skills.
+
+### Leadership
+
+Helping organize activities and support others.
+
+## Activity
+
+Write down three things you would like to improve in your community.
+
+1.
+
+2.
+
+3.
+
+Now write one small action you can begin this week.
+
+__________________________________________________
+
+## Reflection
+
+Think about these questions:
+
+* What strengths do I already have?
+
+* How can I help other people?
+
+* What problem would I like to help solve?
+
+---
+
+*"Communities become stronger when people grow together."*

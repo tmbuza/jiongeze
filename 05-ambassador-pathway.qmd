@@ -1,0 +1,119 @@
+# Ambassador Pathway
+
+:::cdi-message
+- **ID:** JIO-005
+- **Type:** Leadership
+- **Audience:** Contributors, Youth
+- **Theme:** Leadership, Service
+:::
+
+## Growing Through Learning and Service
+
+An ambassador is not simply someone with a title.
+
+A Jiongeze Ambassador is a person who:
+
+* Learns continuously
+* Helps others grow
+* Supports communities
+* Shares knowledge
+* Creates positive change
+
+Growth happens step by step.
+
+::: {.callout-note}
+Leadership begins with learning and helping others.
+:::
+
+## The Ambassador Journey
+
+```{mermaid}
+flowchart LR
+
+A[Begin Learning] --> B[Build Skills]
+
+B --> C[Practice]
+
+C --> D[Help Others]
+
+D --> E[Lead Activities]
+
+E --> F[Become Ambassador]
+```
+
+Every step creates experience.
+
+Experience creates confidence.
+
+Confidence creates opportunities.
+
+## Ambassador Qualities
+
+### Curious
+
+Always willing to learn something new.
+
+### Responsible
+
+Completes tasks and keeps commitments.
+
+### Supportive
+
+Helps others and works as part of a team.
+
+### Creative
+
+Looks for ideas and solutions.
+
+### Positive
+
+Encourages others and contributes to growth.
+
+## Ways to Participate
+
+A Jiongeze Ambassador can:
+
+* Help organize activities
+* Share information
+* Support projects
+* Encourage learning
+* Guide others
+* Participate in community work
+
+## Activity
+
+Think about yourself and answer:
+
+Which strengths do I already have?
+
+☐ Communication
+
+☐ Creativity
+
+☐ Leadership
+
+☐ Teamwork
+
+☐ Helping others
+
+☐ Organization
+
+☐ Problem solving
+
+Which strengths would I like to improve?
+
+____________________________________
+
+## Reflection
+
+Think about these questions:
+
+1. How can I help others learn?
+
+2. What skills would help me become a stronger leader?
+
+3. What small action can I begin today?
+
+---
+
+*"Leadership grows through learning, service, and action."*

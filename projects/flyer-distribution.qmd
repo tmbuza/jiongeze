@@ -1,0 +1,125 @@
+# Project: Flyer Distribution
+
+:::cdi-message
+- **ID:** JIO-P01
+- **Type:** Applied Project
+- **Audience:** Learners, Community Members
+- **Theme:** Communication, Information Sharing
+:::
+
+## Sharing Information with Communities
+
+Communities work better when people receive useful information.
+
+Sometimes people need to know about:
+
+* Meetings
+* Health activities
+* Community events
+* Learning opportunities
+* Important announcements
+
+Flyers help information reach people.
+
+::: {.callout-note}
+Sharing useful information can create positive impact.
+:::
+
+## Project Goal
+
+Help distribute information so community members can receive important messages.
+
+## Skills Developed
+
+Through this project you may practice:
+
+✓ Communication
+
+✓ Teamwork
+
+✓ Responsibility
+
+✓ Organization
+
+✓ Confidence
+
+## Project Process
+
+```{mermaid}
+flowchart LR
+
+A[Receive Flyer]
+
+A --> B[Understand Message]
+
+B --> C[Plan Distribution]
+
+C --> D[Share Information]
+
+D --> E[Reach Community]
+```
+
+## Before Starting
+
+Ask yourself:
+
+* What information is being shared?
+* Who should receive it?
+* Why is it important?
+* When should it be shared?
+
+Understanding information helps us communicate correctly.
+
+## Activity
+
+Imagine you receive a flyer about:
+
+**Community Learning Day**
+
+Fill in the information:
+
+### Event
+
+______________________
+
+### Date
+
+______________________
+
+### Location
+
+______________________
+
+### Audience
+
+______________________
+
+### Why is it important?
+
+______________________
+
+## Practice Activity
+
+Work with a friend or group:
+
+1. Read a flyer.
+
+2. Explain the message in your own words.
+
+3. Identify who should receive the information.
+
+4. Discuss how information could be shared.
+
+## Reflection
+
+Think about these questions:
+
+1. Why is communication important?
+
+2. What challenges could happen when sharing information?
+
+3. How can we make information easy to understand?
+
+---
+
+*"Information becomes useful when it reaches people."*

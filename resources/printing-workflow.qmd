@@ -1,0 +1,120 @@
+# Printing Workflow 
+
+:::cdi-message
+- **ID:** JIO-R03
+- **Type:** Resource
+- **Audience:** Learners
+- **Theme:** Printing, Workflow
+:::
+
+## From Computer to Printed Material
+
+Sometimes information needs to move from a computer onto paper.
+
+Examples include:
+
+* Flyers
+* School work
+* Forms
+* Community notices
+* Brochures
+* Certificates
+
+Printing helps information become easier to share and read.
+
+::: {.callout-note}
+Printing is a process with several simple steps.
+:::
+
+## Printing Workflow
+
+```{mermaid}
+flowchart LR
+
+A[Create or Open File]
+
+A --> B[Review Information]
+
+B --> C[Save File]
+
+C --> D[Connect Printer]
+
+D --> E[Print]
+
+E --> F[Check Output]
+```
+
+## Before Printing
+
+Always check:
+
+✓ Is the correct file open?
+
+✓ Is the information complete?
+
+✓ Is the text readable?
+
+✓ Are images visible?
+
+✓ Is the printer connected?
+
+✓ Is paper available?
+
+## Common Printing Terms
+
+| Term | Meaning |
+|---|---|
+| Print | Send file to printer |
+| Copy | Number of pages to print |
+| Page | Single sheet of content |
+| Printer | Device that prints |
+| Preview | View before printing |
+| Paper | Material used for printing |
+
+## Example Situation
+
+Imagine you created:
+
+**Community Learning Day Flyer**
+
+Before printing:
+
+1. Read all information
+
+2. Check spelling
+
+3. Check images
+
+4. Preview the document
+
+5. Print one test copy
+
+6. Review the printed page
+
+## Practice Activity
+
+Imagine you want to print a community flyer.
+
+Fill in the checklist:
+
+| Question | Yes / No |
+|---|---|
+| Did I open the correct file? | ______ |
+| Did I review the information? | ______ |
+| Did I save the file? | ______ |
+| Is the printer ready? | ______ |
+| Did I check the printed copy? | ______ |
+
+## Reflection
+
+Think about these questions:
+
+1. Why should we review files before printing?
+
+2. What problems could happen during printing?
+
+3. How can mistakes be reduced?
+
+---
+
+*"Good preparation creates better results."*

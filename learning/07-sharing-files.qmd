@@ -1,0 +1,117 @@
+# Sharing Files 
+
+:::cdi-message
+- **ID:** JIO-L07
+- **Type:** Learning
+- **Audience:** Learners
+- **Theme:** Sharing, Collaboration
+:::
+
+## Sharing Information with Others
+
+Computers help people create information.
+
+Sometimes we also need to send or share that information with others.
+
+Examples:
+
+* Sending a document
+* Sharing photos
+* Sending a flyer
+* Sharing school work
+* Sending project materials
+
+Sharing information helps people learn and work together.
+
+::: {.callout-note}
+Technology becomes more useful when it helps people connect.
+:::
+
+## Ways Files Can Be Shared
+
+Examples include:
+
+* USB flash drive
+* Email
+* Phone applications
+* Cloud storage
+* Bluetooth
+* Messaging applications
+
+## File Sharing Process
+
+```{mermaid}
+flowchart LR
+
+A[Create File]
+
+A --> B[Save File]
+
+B --> C[Select File]
+
+C --> D[Share File]
+
+D --> E[Receiver Opens File]
+```
+
+## Example Situation
+
+Imagine you created a community flyer.
+
+You want to share it with:
+
+* Friends
+* Community members
+* Teachers
+* Organizations
+
+You first:
+
+1. Save the file
+
+2. Find the file
+
+3. Select the file
+
+4. Share it
+
+## Activity
+
+Think about these examples.
+
+Which method could be used?
+
+| Situation | Possible Sharing Method |
+|---|---|
+| Giving school work to a friend nearby | __________ |
+| Sending information to another town | __________ |
+| Moving photos between computers | __________ |
+| Sending a community flyer | __________ |
+
+## Practice Activity
+
+If a computer is available:
+
+1. Open a folder.
+
+2. Select a file.
+
+3. Observe the options available.
+
+4. Identify any sharing options.
+
+5. Discuss where the file could be sent.
+
+## Reflection
+
+Think about these questions:
+
+1. Why do people share files?
+
+2. Which sharing methods have I used before?
+
+3. Which method would I like to learn more about?
+
+---
+
+*"Sharing knowledge helps communities grow."*

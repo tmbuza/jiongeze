@@ -1,0 +1,112 @@
+# About Jiongeze {-}
+
+:::cdi-message
+- **ID:** JIO-001
+- **Type:** Foundation
+- **Audience:** Learners, Youth
+- **Theme:** Identity, Growth, Purpose
+:::
+
+## What is Jiongeze?
+
+Jiongeze is a youth initiative created through CDI to help learners move from knowledge to opportunity.
+
+The word **Jiongeze** means:
+
+* Grow yourself
+* Improve yourself
+* Build yourself
+* Keep moving forward
+
+Jiongeze is built on the belief that everyone can learn and create positive change.
+
+Learning does not begin when everything is perfect.
+
+Learning begins when we take the first step.
+
+::: {.callout-note}
+Knowledge becomes more powerful when it is used to create something meaningful.
+:::
+
+## Our Vision
+
+To help young people build confidence, practical skills, creativity, and opportunities that strengthen communities.
+
+## Our Mission
+
+Empowering youth.
+
+Strengthening communities.
+
+Building tomorrow.
+
+## Our Core Values
+
+### Learn
+
+Continue building knowledge and skills.
+
+### Connect
+
+Work with people and communities.
+
+### Create
+
+Transform ideas into useful actions.
+
+### Contribute
+
+Use your abilities to help others.
+
+## The Jiongeze Cycle
+
+```{mermaid}
+flowchart LR
+
+A[Learn] --> B[Connect]
+
+B --> C[Create]
+
+C --> D[Contribute]
+
+D --> E[Grow]
+
+E --> A
+```
+
+Growth does not stop.
+
+Learning creates action.
+
+Action creates experience.
+
+Experience creates confidence.
+
+Confidence creates new opportunities.
+
+## Why Jiongeze Matters
+
+Many opportunities begin with small actions.
+
+A conversation can become an idea.
+
+An idea can become a project.
+
+A project can become experience.
+
+Experience can become opportunity.
+
+## Reflection
+
+Think about the questions below:
+
+1. What does growth mean to me?
+
+2. What skills would I like to develop?
+
+3. What strengths do I already have?
+
+4. How can I use my strengths to help others?
+
+---
+*"Small steps can create big changes."*

@@ -1,0 +1,147 @@
+# Project: Community Message Design 
+
+:::cdi-message
+- **ID:** JIO-P03
+- **Type:** Applied Project
+- **Audience:** Learners, Communities
+- **Theme:** Creativity, Communication
+:::
+
+## Creating Messages That Help People
+
+Messages are used every day.
+
+People use messages to:
+
+* Share information
+* Invite others to activities
+* Raise awareness
+* Encourage action
+* Support communities
+
+Good messages are simple, clear, and easy to understand.
+
+::: {.callout-note}
+Good messages do not only share information.
+
+They help people understand and act.
+:::
+
+## Project Goal
+
+Create a useful message that can support people in a community.
+
+## Skills Developed
+
+Through this project you may practice:
+
+✓ Creativity
+
+✓ Communication
+
+✓ Observation
+
+✓ Organization
+
+✓ Problem solving
+
+## Message Creation Process
+
+```{mermaid}
+flowchart LR
+
+A[Observe Need]
+
+A --> B[Identify Audience]
+
+B --> C[Create Message]
+
+C --> D[Review]
+
+D --> E[Share]
+```
+
+## Elements of a Good Message
+
+### Clear Title
+
+What is the message about?
+
+### Main Information
+
+What should people know?
+
+### Audience
+
+Who should receive the message?
+
+### Action
+
+What should people do?
+
+## Example Message
+
+```text
+COMMUNITY LEARNING DAY
+
+Join us for learning and skill activities.
+
+Date:
+Saturday
+
+Location:
+Community Center
+
+Time:
+9:00 AM
+
+Everyone is welcome.
+```
+
+## Activity
+
+Create your own community message.
+
+### Title
+
+___________________________________
+
+### Main Message
+
+___________________________________
+
+___________________________________
+
+### Audience
+
+___________________________________
+
+### Action
+
+___________________________________
+
+## Practice Activity
+
+Work alone or with a group:
+
+1. Identify a community need.
+
+2. Create a short message.
+
+3. Read the message aloud.
+
+4. Ask others if the message is easy to understand.
+
+## Reflection
+
+Think about these questions:
+
+1. Was my message clear?
+
+2. Who could benefit from the message?
+
+3. What would I improve?
+
+---
+
+*"Ideas become stronger when they are shared clearly."*

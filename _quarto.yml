@@ -44,6 +44,7 @@ book:
 
     - part: "Resources"
       chapters:
+        - resources/jiongeze-learning-map.qmd
         - resources/swahili-english-terms.qmd
         - resources/computer-basics.qmd
         - resources/printing-workflow.qmd

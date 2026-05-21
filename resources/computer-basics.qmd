@@ -1,0 +1,112 @@
+# Computer Basics
+
+:::cdi-message
+- **ID:** JIO-R02
+- **Type:** Resource
+- **Audience:** Beginners
+- **Theme:** Computers, Reference
+:::
+
+## Quick Computer Guide
+
+Computers help people learn, communicate, create, and organize information.
+
+This page provides a simple reference for important computer concepts.
+
+::: {.callout-note}
+You do not need to memorize everything.
+
+Practice helps things become familiar.
+:::
+
+## Main Computer Parts
+
+| Part | Purpose |
+|---|---|
+| Screen (Monitor) | Displays information |
+| Keyboard | Used for typing |
+| Mouse | Used for selecting and clicking |
+| Power Button | Turns the computer on or off |
+| Speakers | Play sound |
+| USB Port | Connects devices |
+
+## Common Mouse Actions
+
+| Action | Purpose |
+|---|---|
+| Single Click | Select an item |
+| Double Click | Open an item |
+| Right Click | Show options |
+| Scroll | Move up or down |
+
+## Common Keyboard Keys
+
+| Key | Purpose |
+|---|---|
+| Enter | Move to new line or confirm action |
+| Space Bar | Create spaces |
+| Backspace | Remove text |
+| Shift | Create capital letters |
+| Delete | Remove selected items |
+
+## Basic File Types
+
+| Type | Example |
+|---|---|
+| Document | Homework.docx |
+| PDF | Guide.pdf |
+| Image | Photo.jpg |
+| Audio | Song.mp3 |
+| Video | Lesson.mp4 |
+
+## Simple Computer Workflow
+
+```{mermaid}
+flowchart LR
+
+A[Turn On Computer]
+
+A --> B[Open Folder]
+
+B --> C[Open File]
+
+C --> D[Read or Edit]
+
+D --> E[Save Work]
+
+E --> F[Close File]
+```
+
+## Quick Practice
+
+Answer these questions:
+
+1. Which device is used for typing?
+
+_____________________
+
+2. Which device is used for clicking?
+
+_____________________
+
+3. What does a folder do?
+
+_____________________
+
+4. What key creates spaces?
+
+_____________________
+
+## Remember
+
+✓ Learn slowly
+
+✓ Practice regularly
+
+✓ Ask questions
+
+✓ Continue exploring
+
+---
+
+*"Confidence grows with use."*

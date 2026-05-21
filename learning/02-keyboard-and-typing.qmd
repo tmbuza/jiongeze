@@ -1,0 +1,144 @@
+# Keyboard and Typing
+
+:::cdi-message
+- **ID:** JIO-L02
+- **Type:** Learning
+- **Audience:** Beginners
+- **Theme:** Typing, Practice
+:::
+
+## Learning to Type
+
+The keyboard helps us communicate with computers.
+
+We use keyboards to:
+
+* Write words
+* Enter numbers
+* Search for information
+* Create documents
+* Send messages
+
+Typing is a skill that improves through practice.
+
+You do not need to type fast at the beginning.
+
+Start slowly.
+
+Accuracy becomes speed over time.
+
+::: {.callout-tip}
+Do not compare your beginning with someone else's experience.
+
+Practice creates progress.
+:::
+
+## Common Keyboard Sections
+
+### Letters
+
+Used to type words.
+
+### Numbers
+
+Used to type numbers and calculations.
+
+### Space Bar
+
+Creates spaces between words.
+
+### Enter Key
+
+Moves to a new line or confirms actions.
+
+### Backspace Key
+
+Deletes text behind the cursor.
+
+### Shift Key
+
+Helps create capital letters and symbols.
+
+## Keyboard Layout
+
+```{mermaid}
+flowchart TD
+
+A[Keyboard]
+
+A --> B[Letters A-Z]
+
+A --> C[Numbers 0-9]
+
+A --> D[Space Bar]
+
+A --> E[Enter]
+
+A --> F[Backspace]
+
+A --> G[Shift]
+```
+
+## Practice Activity 1
+
+Type the following words slowly:
+
+```
+Jiongeze
+Learning
+Community
+Computer
+Opportunity
+```
+
+Repeat several times.
+
+## Practice Activity 2
+
+Type your own information:
+
+Name:
+
+________________
+
+Favorite activity:
+
+________________
+
+Dream job:
+
+________________
+
+Community:
+
+________________
+
+## Practice Activity 3
+
+Practice numbers:
+
+```
+1 2 3 4 5 6 7 8 9 10
+```
+
+Then practice:
+
+```
+10 9 8 7 6 5 4 3 2 1
+```
+
+## Reflection
+
+Think about these questions:
+
+1. Which keys were easiest to find?
+
+2. Which keys were difficult?
+
+3. How did typing feel today?
+
+4. What would I like to practice more?
+
+---
+
+*"Small practice today becomes confidence tomorrow."*

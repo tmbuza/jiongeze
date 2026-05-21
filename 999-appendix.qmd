@@ -1,0 +1,147 @@
+# Appendix 
+
+:::cdi-message
+- **ID:** JIO-999
+- **Type:** Appendix
+- **Audience:** Learners, Mentors, Communities
+- **Theme:** Reflection, Growth, Next Steps
+:::
+
+## About This Guide
+
+Jiongeze was created to help learners move from knowledge to opportunity through practical learning, creativity, community participation, and small real-world activities.
+
+The guide combines:
+
+* Learning
+* Observation
+* Communication
+* Community engagement
+* Practice
+* Reflection
+
+The goal is not only to learn information.
+
+The goal is to create meaningful action.
+
+
+
+::: {.callout-note}
+Learning becomes stronger when knowledge is used.
+:::
+
+## Learning Principles
+
+Jiongeze follows a simple approach:
+
+### Learn
+
+Build understanding.
+
+### Practice
+
+Apply what you learn.
+
+### Create
+
+Develop ideas and projects.
+
+### Contribute
+
+Help communities and others.
+
+### Grow
+
+Continue improving.
+
+## Learning Cycle
+
+```{mermaid}
+flowchart LR
+
+A[Learn]
+
+A --> B[Practice]
+
+B --> C[Create]
+
+C --> D[Contribute]
+
+D --> E[Grow]
+
+E --> A
+```
+
+Learning continues throughout life.
+
+## Notes for Learners
+
+Remember:
+
+✓ Start with small steps
+
+✓ Practice regularly
+
+✓ Ask questions
+
+✓ Work with others
+
+✓ Learn from mistakes
+
+✓ Continue improving
+
+## Acknowledgements
+
+Thank you to:
+
+* Learners
+* Families
+* Communities
+* Mentors
+* Teachers
+* Supporters
+
+Growth becomes possible when people learn together.
+
+## Next Steps
+
+After completing Jiongeze, continue building your journey:
+
+* Learn new skills
+* Join activities
+* Support communities
+* Build projects
+* Share knowledge
+* Create opportunities
+
+## Final Reflection
+
+Take a moment and answer:
+
+1. What did I learn?
+
+_________________________________
+
+2. What skills did I develop?
+
+_________________________________
+
+3. What would I like to continue learning?
+
+_________________________________
+
+4. What opportunity would I like to create?
+
+_________________________________
+
+---
+
+# Final Message
+
+*Kila hatua ndogo leo, ni kesho bora.*
+
+*Every small step today creates a better tomorrow.*
+
+**Jiongeze**
+
+**From Knowledge to Opportunity**

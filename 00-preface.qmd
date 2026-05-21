@@ -1,0 +1,139 @@
+# Preface {-}
+
+:::cdi-message
+- **ID:** JIO-000
+- **Type:** Preface
+- **Audience:** Learners, Youth, Community Members
+- **Theme:** Welcome, Growth, Opportunity
+:::
+
+
+## Karibu Jiongeze
+
+Jiongeze means *grow yourself*, *improve yourself*, and *keep moving forward*.
+
+Everyone starts somewhere.
+
+Some people begin with experience.
+
+Some begin with ideas.
+
+Some begin with curiosity.
+
+Some begin with nothing more than a willingness to learn.
+
+Jiongeze was created to help learners move from knowledge to opportunity through small steps, practical activities, creativity, and community action.
+
+
+::: {.callout-note}
+Kila hatua ndogo leo, ni kesho bora.
+
+Every small step today creates a better tomorrow.
+:::
+
+## What is Jiongeze?
+
+Jiongeze is a youth initiative developed through CDI.
+
+It is designed to help young people:
+
+✓ Learn practical skills
+
+✓ Build confidence
+
+✓ Create ideas
+
+✓ Work with communities
+
+✓ Turn knowledge into opportunities
+
+Learning is not only about reading.
+
+Learning also happens when we:
+
+* Observe
+* Practice
+* Create
+* Help others
+* Build something useful
+
+## The Jiongeze Journey
+
+```{mermaid}
+flowchart LR
+
+A[Learn] --> B[Practice]
+
+B --> C[Create]
+
+C --> D[Contribute]
+
+D --> E[Opportunity]
+```
+
+Each stage builds on the previous one.
+
+Learning starts with small actions.
+
+Small actions become skills.
+
+Skills become projects.
+
+Projects create opportunities.
+
+## How to Use This Guide
+
+This guide is organized into different sections:
+
+### Jiongeze
+
+Learn about the initiative and understand the journey.
+
+### Learning Pathway
+
+Build practical skills step by step.
+
+### Journeys
+
+Read real stories and experiences.
+
+### Projects
+
+Apply learning through simple community activities.
+
+### Resources
+
+Use practical references and supporting materials.
+
+## Learning Approach
+
+You do not need to know everything before starting.
+
+You only need:
+
+* Curiosity
+* Practice
+* Patience
+* Consistency
+
+Mistakes are part of learning.
+
+Questions are part of learning.
+
+Progress is part of learning.
+
+## Reflection
+
+Before moving to the next section, think about these questions:
+
+1. What do I want to learn?
+
+2. What skills would I like to build?
+
+3. How can I help my community?
+
+4. What small step can I start today?
+
+---
+
+*"From Knowledge to Opportunity"*

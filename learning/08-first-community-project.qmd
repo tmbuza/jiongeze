@@ -1,0 +1,165 @@
+# My First Community Project
+
+:::cdi-message
+- **ID:** JIO-L08
+- **Type:** Learning
+- **Audience:** Learners
+- **Theme:** Practice, Action, Community
+:::
+
+## Putting Learning into Action
+
+You have now learned:
+
+✓ Computer confidence
+
+✓ Keyboard and typing
+
+✓ Files and folders
+
+✓ Opening files
+
+✓ Community observation
+
+✓ Understanding flyers
+
+✓ Sharing files
+
+Now it is time to use these skills.
+
+Projects help transform learning into action.
+
+Remember:
+
+Projects do not need to begin as large activities.
+
+Small actions can create meaningful results.
+
+::: {.callout-tip}
+Start small.
+
+Learn by doing.
+
+Improve as you continue.
+:::
+
+## Project Steps
+
+```{mermaid}
+flowchart LR
+
+A[Observe]
+
+A --> B[Find an Idea]
+
+B --> C[Plan]
+
+C --> D[Take Action]
+
+D --> E[Share]
+
+E --> F[Reflect]
+```
+
+## Example Community Projects
+
+### Information Flyer
+
+Goal:
+
+Share useful information with others.
+
+Possible skills:
+
+* Communication
+* Typing
+* Design
+* Organization
+
+---
+
+### Community Clean-Up Activity
+
+Goal:
+
+Help improve local surroundings.
+
+Possible skills:
+
+* Teamwork
+* Planning
+* Leadership
+
+---
+
+### Learning Support Activity
+
+Goal:
+
+Help someone learn a skill.
+
+Possible skills:
+
+* Teaching
+* Communication
+* Leadership
+
+---
+
+## My First Project
+
+### Project Name
+
+____________________________________
+
+### Problem or Need
+
+____________________________________
+
+____________________________________
+
+### Who Does It Help?
+
+____________________________________
+
+____________________________________
+
+### Resources Needed
+
+____________________________________
+
+____________________________________
+
+### People Who Can Help
+
+____________________________________
+
+____________________________________
+
+### First Step
+
+____________________________________
+
+____________________________________
+
+## Reflection
+
+Think about these questions:
+
+1. What project did I choose?
+
+2. What skills did I use?
+
+3. What was easy?
+
+4. What was difficult?
+
+5. What would I improve next time?
+
+---
+
+Congratulations.
+
+You completed the first Jiongeze Learning Pathway.
+
+*"Learning becomes powerful when it creates action."*

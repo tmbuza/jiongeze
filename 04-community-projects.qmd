@@ -1,0 +1,158 @@
+# Community Projects
+
+:::cdi-message
+- **ID:** JIO-004
+- **Type:** Project
+- **Audience:** Learners, Communities
+- **Theme:** Action, Practice
+:::
+
+## Learning Through Action
+
+Learning becomes stronger when we practice.
+
+Community projects allow us to:
+
+* Apply skills
+* Work with others
+* Solve problems
+* Build confidence
+* Create positive impact
+
+Projects do not need to begin as large activities.
+
+Many successful projects start with small actions.
+
+::: {.callout-tip}
+Start small.
+
+Learn while doing.
+
+Improve as you continue.
+:::
+
+## Project Journey
+
+```{mermaid}
+flowchart LR
+
+A[Idea] --> B[Plan]
+
+B --> C[Action]
+
+C --> D[Learn]
+
+D --> E[Improve]
+
+E --> F[Share Results]
+```
+
+## Example Community Projects
+
+### Flyer Distribution
+
+Goal:
+
+Share important information with people.
+
+Skills developed:
+
+* Communication
+* Responsibility
+* Teamwork
+
+Possible impact:
+
+* Increased awareness
+
+---
+
+### Community Message Design
+
+Goal:
+
+Create useful messages for the community.
+
+Skills developed:
+
+* Creativity
+* Design
+* Communication
+
+Possible impact:
+
+* Better information sharing
+
+---
+
+### Peer Learning Support
+
+Goal:
+
+Help others learn new skills.
+
+Skills developed:
+
+* Leadership
+* Teaching
+* Organization
+
+Possible impact:
+
+* Stronger learning communities
+
+---
+
+### Community Clean-up Activity
+
+Goal:
+
+Improve local environments.
+
+Skills developed:
+
+* Teamwork
+* Planning
+* Responsibility
+
+Possible impact:
+
+* Cleaner surroundings
+
+## Activity
+
+Think about one project you would like to try.
+
+Project name:
+
+________________________________
+
+What problem does it solve?
+
+________________________________
+
+Who does it help?
+
+________________________________
+
+What resources are needed?
+
+________________________________
+
+Who can help?
+
+________________________________
+
+## Reflection
+
+Answer these questions:
+
+1. What project interests me most?
+
+2. What skills would I gain?
+
+3. What first step can I take?
+
+---
+
+*"Communities grow when ideas become actions."*

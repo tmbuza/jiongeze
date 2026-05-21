@@ -1,0 +1,81 @@
+# Swahili and English Terms
+
+:::cdi-message
+- **ID:** JIO-R01
+- **Type:** Resource
+- **Audience:** Learners
+- **Theme:** Language, Vocabulary
+:::
+
+## Learning New Words
+
+Learning technology and communication sometimes introduces new words.
+
+Understanding common terms helps make learning easier.
+
+::: {.callout-note}
+Do not worry if you do not know every word immediately.
+
+New words become familiar through practice.
+:::
+
+## Computer and Learning Terms
+
+| English | Swahili |
+|---|---|
+| Computer | Kompyuta |
+| Keyboard | Kibodi |
+| Mouse | Kipanya |
+| Screen | Skrini |
+| Folder | Folda |
+| File | Faili |
+| Document | Hati |
+| Picture | Picha |
+| Password | Nenosiri |
+| Internet | Intaneti |
+| Printer | Printa |
+| Project | Mradi |
+| Learning | Kujifunza |
+| Community | Jamii |
+| Opportunity | Fursa |
+
+## Communication Terms
+
+| English | Swahili |
+|---|---|
+| Flyer | Tangazo |
+| Message | Ujumbe |
+| Information | Taarifa |
+| Meeting | Mkutano |
+| Event | Tukio |
+| Contact | Mawasiliano |
+| Support | Msaada |
+| Design | Ubunifu |
+| Share | Kushiriki |
+| Create | Kuunda |
+
+## Practice Activity
+
+Match the words below:
+
+| English | Swahili |
+|---|---|
+| Keyboard | __________ |
+| Community | __________ |
+| Project | __________ |
+| Information | __________ |
+| Opportunity | __________ |
+
+## Reflection
+
+Think about these questions:
+
+1. Which words were already familiar?
+
+2. Which words were new?
+
+3. Which words would I like to remember?
+
+---
+
+*"Learning new words opens new understanding."*

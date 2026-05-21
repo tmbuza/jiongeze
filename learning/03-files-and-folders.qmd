@@ -1,0 +1,139 @@
+# Files and Folders 
+
+:::cdi-message
+- **ID:** JIO-L03
+- **Type:** Learning
+- **Audience:** Beginners
+- **Theme:** Organization, Files, Folders
+:::
+
+## Keeping Things Organized
+
+Imagine your room or your school bag.
+
+If books, pens, clothes, and papers are placed everywhere, finding something becomes difficult.
+
+Computers work the same way.
+
+Files and folders help us organize information.
+
+::: {.callout-note}
+Organization saves time.
+:::
+
+## What Is a File?
+
+A file is a piece of information stored on a computer.
+
+Examples of files:
+
+* A photo
+* A document
+* A music file
+* A video
+* A PDF
+* A presentation
+
+## What Is a Folder?
+
+A folder stores and organizes files.
+
+Folders help us group related things together.
+
+Examples:
+
+* School work
+* Photos
+* Community projects
+* Music
+* Personal documents
+
+## Understanding Organization
+
+```{mermaid}
+flowchart TD
+
+A[Computer]
+
+A --> B[Folder: School]
+
+A --> C[Folder: Photos]
+
+A --> D[Folder: Projects]
+
+B --> E[Math Notes]
+
+B --> F[Homework]
+
+C --> G[Family Photo]
+
+D --> H[Community Flyer]
+```
+
+## Example
+
+Imagine this folder:
+
+```
+My Documents
+│
+├── School
+│     ├── Notes.docx
+│     └── Homework.pdf
+│
+├── Photos
+│     └── Family.jpg
+│
+└── Community Projects
+      └── Flyer.png
+```
+
+Files stay easier to find when they are organized.
+
+## Activity
+
+Think about these examples.
+
+Would these belong in files or folders?
+
+| Item | File or Folder |
+|---|---|
+| Family photo | ______ |
+| School work collection | ______ |
+| Community flyer | ______ |
+| Music collection | ______ |
+| Single document | ______ |
+
+## Practice Activity
+
+If a computer is available:
+
+1. Open the Documents area.
+
+2. Create a folder called:
+
+```
+Jiongeze Practice
+```
+
+3. Create another folder inside:
+
+```
+Activities
+```
+
+4. Observe how folders can contain other folders.
+
+## Reflection
+
+Answer these questions:
+
+1. Why are folders useful?
+
+2. How do files and folders help organization?
+
+3. What would happen if everything stayed in one place?
+
+---
+
+*"Good organization makes learning easier."*

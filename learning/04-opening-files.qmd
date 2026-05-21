@@ -1,0 +1,112 @@
+# Opening Files 
+
+:::cdi-message
+- **ID:** JIO-L04
+- **Type:** Learning
+- **Audience:** Beginners
+- **Theme:** Navigation, Accessing Information
+:::
+
+## Accessing Information
+
+Files are useful only when we can find and open them.
+
+Opening files allows us to read, view, listen, or work with information stored on a computer.
+
+Examples:
+
+* Open a document to read information
+* Open a picture to view it
+* Open a music file to listen
+* Open a video to watch
+
+::: {.callout-tip}
+Do not be afraid to click and explore.
+
+Learning happens through practice.
+:::
+
+## Different Types of Files
+
+| File Type | Example | Purpose |
+|---|---:|---:|
+| Document | Homework.docx | Reading or writing |
+| PDF | Guide.pdf | Viewing information |
+| Image | Photo.jpg | Viewing pictures |
+| Audio | Music.mp3 | Listening |
+| Video | Lesson.mp4 | Watching |
+
+## Opening a File
+
+```{mermaid}
+flowchart LR
+
+A[Find Folder]
+
+A --> B[Find File]
+
+B --> C[Double Click]
+
+C --> D[File Opens]
+```
+
+## Practice Activity
+
+If a computer is available:
+
+1. Open the **Documents** folder.
+
+2. Find a file.
+
+3. Double-click the file.
+
+4. Observe what happens.
+
+5. Close the file.
+
+6. Open it again.
+
+Repeat several times.
+
+## Example Activity
+
+Imagine you have this folder:
+
+```text
+Jiongeze Practice
+│
+├── Welcome.docx
+├── Community.jpg
+├── Music.mp3
+└── Notes.pdf
+```
+
+Questions:
+
+1. Which file would you open to see a picture?
+
+_________________
+
+2. Which file would you open to read a document?
+
+_________________
+
+3. Which file would you open to listen to sound?
+
+_________________
+
+## Reflection
+
+Think about these questions:
+
+1. What happens when I open a file?
+
+2. Which files looked familiar?
+
+3. Which file types were new to me?
+
+4. What would I like to practice again?
+
+---
+
+*"Learning begins by exploring."*

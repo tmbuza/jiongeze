@@ -1,0 +1,111 @@
+# Community Observation 
+
+:::cdi-message
+- **ID:** JIO-L05
+- **Type:** Learning
+- **Audience:** Learners, Community Members
+- **Theme:** Observation, Awareness
+:::
+
+## Learning Through Observation
+
+We learn many things by paying attention to the world around us.
+
+Observation means noticing what is happening around us.
+
+Good observation helps us:
+
+* Understand situations
+* Identify needs
+* Discover ideas
+* Solve problems
+* Create opportunities
+
+::: {.callout-note}
+Many useful ideas begin with careful observation.
+:::
+
+## What Can We Observe?
+
+Examples include:
+
+* People
+* Activities
+* Businesses
+* Schools
+* Roads
+* Environment
+* Communication
+* Community challenges
+
+## Observation Process
+
+```{mermaid}
+flowchart LR
+
+A[Observe]
+
+A --> B[Notice]
+
+B --> C[Ask Questions]
+
+C --> D[Think About Solutions]
+
+D --> E[Create Ideas]
+```
+
+## Example
+
+Imagine you walk through a community and notice:
+
+* People do not know about an upcoming event.
+* Small businesses have little visibility.
+* Some places have waste problems.
+
+Possible ideas:
+
+| Observation | Possible Idea |
+|---|---|
+| Missing information | Create flyers |
+| Small businesses not visible | Design posters |
+| Waste problem | Organize clean-up activities |
+
+## Activity
+
+Take a short walk or think about your surroundings.
+
+Write three things you observe:
+
+### Observation 1
+
+_________________________
+
+### Observation 2
+
+_________________________
+
+### Observation 3
+
+_________________________
+
+Now answer:
+
+What problem or opportunity did you notice?
+
+________________________________
+
+## Reflection
+
+Think about these questions:
+
+1. What did I notice today?
+
+2. Which observation surprised me?
+
+3. What idea came to mind?
+
+4. How could I help improve something?
+
+---
+
+*"Opportunities often begin with noticing what others overlook."*

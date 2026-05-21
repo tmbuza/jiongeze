@@ -1,0 +1,123 @@
+# Idea Bank
+
+:::cdi-message
+- **ID:** JIO-003
+- **Type:** Creative Thinking
+- **Audience:** Learners
+- **Theme:** Observation, Ideas
+:::
+
+## Every Project Starts with an Idea
+
+Big projects often begin with simple ideas.
+
+A person notices something.
+
+A question is asked.
+
+A problem is observed.
+
+Then someone says:
+
+*"What if we try this?"*
+
+Ideas do not need to be perfect.
+
+Ideas only need a starting point.
+
+::: {.callout-note}
+Small ideas can become big opportunities.
+:::
+
+## Where Do Ideas Come From?
+
+Ideas can come from:
+
+* Things you observe
+* Problems you notice
+* Questions people ask
+* Community needs
+* Things you enjoy doing
+* Skills you want to develop
+
+## Observation → Idea → Action
+
+```{mermaid}
+flowchart LR
+
+A[Observe] --> B[Think]
+
+B --> C[Create Idea]
+
+C --> D[Test]
+
+D --> E[Improve]
+
+E --> F[Share]
+```
+
+## Community Idea Examples
+
+| Observation | Possible Idea | Possible Impact |
+|---|---:|---:|
+| People miss important information | Create flyers | Better awareness |
+| School children need support | Peer tutoring | Better learning |
+| Community waste is increasing | Recycling activity | Cleaner environment |
+| Youth need computer skills | Small learning sessions | Skill development |
+| Local businesses need visibility | Design posters | Business support |
+
+## My Idea Space
+
+Write your ideas below.
+
+### Idea 1
+
+Problem:
+
+Possible solution:
+
+Who could benefit?
+
+---
+
+### Idea 2
+
+Problem:
+
+Possible solution:
+
+Who could benefit?
+
+---
+
+### Idea 3
+
+Problem:
+
+Possible solution:
+
+Who could benefit?
+
+---
+
+## Activity
+
+Choose one idea and answer:
+
+1. What problem does it solve?
+
+2. Who does it help?
+
+3. What resources are needed?
+
+4. What is one small step you can take?
+
+## Reflection
+
+Think about this question:
+
+What idea would I like to turn into a real project?
+
+---
+
+*"Ideas become powerful when they move into action."*

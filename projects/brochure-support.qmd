@@ -1,0 +1,123 @@
+# Project: Brochure Support 
+
+:::cdi-message
+- **ID:** JIO-P02
+- **Type:** Applied Project
+- **Audience:** Learners, Community Members
+- **Theme:** Organization, Communication
+:::
+
+## Supporting Information Sharing
+
+Brochures help people learn about important topics.
+
+Unlike flyers that usually share one short message, brochures often provide more detailed information.
+
+Brochures may include:
+
+* Health information
+* Education opportunities
+* Community programs
+* Business information
+* Learning activities
+
+Helping organize and support brochures is an important community activity.
+
+::: {.callout-note}
+Clear information helps people understand and make better decisions.
+:::
+
+## Project Goal
+
+Support the preparation, organization, and sharing of useful information materials.
+
+## Skills Developed
+
+Through this project you may practice:
+
+✓ Communication
+
+✓ Organization
+
+✓ Attention to detail
+
+✓ Teamwork
+
+✓ Responsibility
+
+## Project Flow
+
+```{mermaid}
+flowchart LR
+
+A[Receive Information]
+
+A --> B[Review Content]
+
+B --> C[Organize Materials]
+
+C --> D[Support Distribution]
+
+D --> E[Help Community]
+```
+
+## Understanding Information
+
+Before sharing information, ask:
+
+* What is this brochure about?
+* Who is the audience?
+* Why is it useful?
+* What action should people take?
+
+Understanding information helps prevent confusion.
+
+## Activity
+
+Imagine you receive a brochure about:
+
+**Healthy Living in the Community**
+
+Complete the information below:
+
+### Main Topic
+
+______________________
+
+### Audience
+
+______________________
+
+### Key Message
+
+______________________
+
+### Why is this useful?
+
+______________________
+
+## Practice Activity
+
+Work individually or with a group:
+
+1. Read a brochure.
+
+2. Identify the main topic.
+
+3. Explain the information in your own words.
+
+4. Discuss who could benefit.
+
+## Reflection
+
+Think about these questions:
+
+1. Why is organized information important?
+
+2. What did I learn from this activity?
+
+3. How can information help communities?
+
+---
+
+*"Good information creates understanding."*

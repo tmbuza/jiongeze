@@ -1,0 +1,133 @@
+# Computer Confidence
+
+:::cdi-message
+- **ID:** JIO-L01
+- **Type:** Learning
+- **Audience:** Beginners
+- **Theme:** Confidence, Computers
+:::
+
+## Getting Comfortable with Computers
+
+Many people think:
+
+*"Computers are difficult."*
+
+*"What if I break something?"*
+
+*"What if I press the wrong button?"*
+
+These feelings are normal.
+
+Every person who uses a computer today once started as a beginner.
+
+Computers are tools that become easier through practice.
+
+::: {.callout-note}
+You do not need to know everything.
+
+You only need to begin.
+:::
+
+## What Is a Computer?
+
+A computer is a tool that helps people:
+
+* Write information
+* Store files
+* Create documents
+* Search for information
+* Communicate
+* Learn new things
+
+Computers help us work, learn, create, and solve problems.
+
+## Basic Computer Parts
+
+### Screen (Monitor)
+
+Displays information.
+
+### Keyboard
+
+Used for typing.
+
+### Mouse
+
+Used for clicking and selecting.
+
+### Power Button
+
+Turns the computer on or off.
+
+### Speakers
+
+Play sound.
+
+### USB Ports
+
+Connect devices.
+
+## Simple Computer Illustration
+
+```{mermaid}
+flowchart TD
+
+A[Computer] --> B[Screen]
+
+A --> C[Keyboard]
+
+A --> D[Mouse]
+
+A --> E[Power Button]
+
+A --> F[USB Ports]
+```
+
+## Activity
+
+Look at a computer and identify:
+
+☐ Screen
+
+☐ Keyboard
+
+☐ Mouse
+
+☐ Power button
+
+☐ USB port
+
+## Practice Activity
+
+If a computer is available:
+
+1. Sit comfortably.
+
+2. Move the mouse slowly.
+
+3. Click once.
+
+4. Click twice.
+
+5. Observe what happens.
+
+Remember:
+
+There is no need to rush.
+
+Learning happens through repetition.
+
+## Reflection
+
+Answer the questions below:
+
+1. How do I feel about using a computer?
+
+2. What part of a computer was new to me?
+
+3. What would I like to practice again?
+
+---
+
+*"Confidence grows through practice."*

@@ -1,0 +1,146 @@
+# Understanding Flyers 
+
+:::cdi-message
+- **ID:** JIO-L06
+- **Type:** Learning
+- **Audience:** Learners
+- **Theme:** Communication, Information
+:::
+
+## Sharing Information
+
+People use different ways to communicate important information.
+
+One common method is a **flyer**.
+
+A flyer is a printed or digital page used to share information with others.
+
+Flyers help people learn about:
+
+* Events
+* Meetings
+* Businesses
+* Community activities
+* Health information
+* Education opportunities
+
+::: {.callout-note}
+Good communication helps people make better decisions.
+:::
+
+## Parts of a Flyer
+
+Most flyers contain:
+
+### Title
+
+The main message.
+
+### Images
+
+Pictures that help explain information.
+
+### Main Information
+
+Important details people should know.
+
+### Contact Information
+
+How people can ask questions or get help.
+
+## Example Structure
+
+```text
+--------------------------------
+
+COMMUNITY CLEAN-UP DAY
+
+Join us this Saturday
+
+Location:
+Community Center
+
+Time:
+8:00 AM
+
+Contact:
+0712 XXX XXX
+
+--------------------------------
+```
+
+## Understanding a Flyer
+
+```{mermaid}
+flowchart TD
+
+A[Flyer]
+
+A --> B[Title]
+
+A --> C[Images]
+
+A --> D[Information]
+
+A --> E[Contact Details]
+```
+
+## Activity
+
+Look at a flyer around you or imagine one.
+
+Answer these questions:
+
+1. What is the title?
+
+_____________________
+
+2. What information is shared?
+
+_____________________
+
+3. Who is the audience?
+
+_____________________
+
+4. What action should people take?
+
+_____________________
+
+## Practice Activity
+
+Imagine creating a flyer for:
+
+**Community Learning Day**
+
+Write:
+
+Title:
+
+_____________________
+
+Date:
+
+_____________________
+
+Location:
+
+_____________________
+
+Message:
+
+_____________________
+
+## Reflection
+
+Think about these questions:
+
+1. Why are flyers useful?
+
+2. What information is important?
+
+3. What makes information easy to understand?
+
+---
+
+*"Good communication creates connection."*

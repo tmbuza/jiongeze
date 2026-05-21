@@ -1,0 +1,80 @@
+# Jiongeze Learning Map
+
+:::cdi-message
+- **ID:** JIO-R00
+- **Type:** Resource
+- **Audience:** Learners, Mentors, Communities
+- **Theme:** Guide Structure, Learning Journey
+:::
+
+## Jiongeze Learning Journey
+
+This page provides an overview of the complete Jiongeze pathway.
+
+The journey moves from understanding, to learning, to action, and eventually to contribution.
+
+```{mermaid}
+flowchart LR
+
+A[Foundation] --> B[Learning]
+B --> C[Journey]
+C --> D[Projects]
+D --> E[Resources]
+E --> F[Growth]
+```
+
+## Foundation
+
+| ID | Chapter |
+|---|---|
+| JIO-000 | Preface |
+| JIO-001 | About Jiongeze |
+| JIO-002 | Youth Initiative |
+| JIO-003 | Idea Bank |
+| JIO-004 | Community Projects |
+| JIO-005 | Ambassador Pathway |
+
+## Learning Pathway
+
+| ID | Chapter |
+|---|---|
+| JIO-L01 | Computer Confidence |
+| JIO-L02 | Keyboard and Typing |
+| JIO-L03 | Files and Folders |
+| JIO-L04 | Opening Files |
+| JIO-L05 | Community Observation |
+| JIO-L06 | Understanding Flyers |
+| JIO-L07 | Sharing Files |
+| JIO-L08 | My First Community Project |
+
+## Journeys
+
+| ID | Chapter |
+|---|---|
+| JIO-J01 | Hamis Idd Journey |
+
+## Projects
+
+| ID | Chapter |
+|---|---|
+| JIO-P01 | Flyer Distribution |
+| JIO-P02 | Brochure Support |
+| JIO-P03 | Community Message Design |
+
+## Resources
+
+| ID | Chapter |
+|---|---|
+| JIO-R01 | Swahili-English Terms |
+| JIO-R02 | Computer Basics |
+| JIO-R03 | Printing Workflow |
+
+## Closing
+
+| ID | Chapter |
+|---|---|
+| JIO-999 | Appendix |
+
+---
+
+*"Learn → Practice → Create → Contribute → Grow"*

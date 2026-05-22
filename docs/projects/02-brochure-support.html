@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Swahili and English Terms – Jiongeze</title>
+<title>Project: Brochure Support – Jiongeze</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,6 +20,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -30,8 +65,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../resources/computer-basics.html" rel="next">
-<link href="../resources/jiongeze-learning-map.html" rel="prev">
+<link href="../projects/03-community-message-design.html" rel="next">
+<link href="../projects/01-flyer-distribution.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -70,6 +105,10 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<meta name="mermaid-theme" content="forest">
+<script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../assets/css/cdi.css">
@@ -84,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/jiongeze-learning-map.html">Resources</a></li><li class="breadcrumb-item"><a href="../resources/swahili-english-terms.html"><span class="chapter-title">Swahili and English Terms</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../projects/01-flyer-distribution.html">Community Projects</a></li><li class="breadcrumb-item"><a href="../projects/02-brochure-support.html"><span class="chapter-title">Project: Brochure Support</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -131,8 +170,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01-about-jiongeze.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">About Jiongeze</span></a>
+  <a href="../01-about-jiongeze.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">About Jiongeze</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -203,7 +241,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../learning/08-first-community-project.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">My First Community Project</span></a>
+  <a href="../learning/08-my-first-community-project.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">My First Community Project</span></a>
   </div>
 </li>
       </ul>
@@ -219,7 +257,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../journeys/hamis-idd.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Journey: Hamis Idd</span></a>
+  <a href="../journeys/01-hamis-journey.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hamis Journey</span></a>
   </div>
 </li>
       </ul>
@@ -227,7 +265,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
- <span class="menu-text">Projects</span></a>
+ <span class="menu-text">Community Projects</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -235,17 +273,17 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../projects/flyer-distribution.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project: Flyer Distribution</span></a>
+  <a href="../projects/01-flyer-distribution.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project: Flyer Distribution</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../projects/brochure-support.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project: Brochure Support</span></a>
+  <a href="../projects/02-brochure-support.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Project: Brochure Support</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../projects/community-message-design.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project: Community Message Design</span></a>
+  <a href="../projects/03-community-message-design.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project: Community Message Design</span></a>
   </div>
 </li>
       </ul>
@@ -253,7 +291,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
- <span class="menu-text">Resources</span></a>
+ <span class="menu-text">Reference Resources</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -261,31 +299,77 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/jiongeze-learning-map.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Jiongeze Learning Map</span></a>
+  <a href="../resources/01-jiongeze-learning-map.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Jiongeze Learning Map</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/swahili-english-terms.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Swahili and English Terms</span></a>
+  <a href="../resources/02-swahili-english-terms.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Swahili and English Terms</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/computer-basics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Computer Basics</span></a>
+  <a href="../resources/03-computer-basics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Computer Basics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/printing-workflow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Printing Workflow</span></a>
+  <a href="../resources/04-printing-workflow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Printing Workflow</span></a>
   </div>
 </li>
       </ul>
   </li>
-        <li class="sidebar-item">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
+ <span class="menu-text">Appendices</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../999-appendix.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Appendix</span></a>
+  <a href="../999-about-this-guide.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">About This Guide</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../999-swahili-english-terms.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Swahili-English Terms</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../999-computer-basics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Computer Basics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../999-printing-workflow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Printing Workflow</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../999-community-resources.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Community Resources</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../999-project-gallery.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project Gallery</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../999-frequently-asked-questions.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Frequently Asked Questions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../999-next-steps.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Next Steps</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
@@ -296,9 +380,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#learning-new-words" id="toc-learning-new-words" class="nav-link active" data-scroll-target="#learning-new-words">Learning New Words</a></li>
-  <li><a href="#computer-and-learning-terms" id="toc-computer-and-learning-terms" class="nav-link" data-scroll-target="#computer-and-learning-terms">Computer and Learning Terms</a></li>
-  <li><a href="#communication-terms" id="toc-communication-terms" class="nav-link" data-scroll-target="#communication-terms">Communication Terms</a></li>
+  <li><a href="#supporting-information-sharing" id="toc-supporting-information-sharing" class="nav-link active" data-scroll-target="#supporting-information-sharing">Supporting Information Sharing</a></li>
+  <li><a href="#project-goal" id="toc-project-goal" class="nav-link" data-scroll-target="#project-goal">Project Goal</a></li>
+  <li><a href="#skills-developed" id="toc-skills-developed" class="nav-link" data-scroll-target="#skills-developed">Skills Developed</a></li>
+  <li><a href="#project-flow" id="toc-project-flow" class="nav-link" data-scroll-target="#project-flow">Project Flow</a></li>
+  <li><a href="#understanding-information" id="toc-understanding-information" class="nav-link" data-scroll-target="#understanding-information">Understanding Information</a></li>
+  <li><a href="#activity" id="toc-activity" class="nav-link" data-scroll-target="#activity">Activity</a>
+  <ul class="collapse">
+  <li><a href="#main-topic" id="toc-main-topic" class="nav-link" data-scroll-target="#main-topic">Main Topic</a></li>
+  <li><a href="#audience" id="toc-audience" class="nav-link" data-scroll-target="#audience">Audience</a></li>
+  <li><a href="#key-message" id="toc-key-message" class="nav-link" data-scroll-target="#key-message">Key Message</a></li>
+  <li><a href="#why-is-this-useful" id="toc-why-is-this-useful" class="nav-link" data-scroll-target="#why-is-this-useful">Why is this useful?</a></li>
+  </ul></li>
   <li><a href="#practice-activity" id="toc-practice-activity" class="nav-link" data-scroll-target="#practice-activity">Practice Activity</a></li>
   <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
   </ul>
@@ -307,9 +400,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/jiongeze-learning-map.html">Resources</a></li><li class="breadcrumb-item"><a href="../resources/swahili-english-terms.html"><span class="chapter-title">Swahili and English Terms</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../projects/01-flyer-distribution.html">Community Projects</a></li><li class="breadcrumb-item"><a href="../projects/02-brochure-support.html"><span class="chapter-title">Project: Brochure Support</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Swahili and English Terms</span></h1>
+<h1 class="title"><span class="chapter-title">Project: Brochure Support</span></h1>
 </div>
 
 
@@ -334,16 +427,25 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="cdi-message">
 <ul>
-<li><strong>ID:</strong> JIO-R01</li>
-<li><strong>Type:</strong> Resource</li>
-<li><strong>Audience:</strong> Learners</li>
-<li><strong>Theme:</strong> Language, Vocabulary</li>
+<li><strong>ID:</strong> JIO-P02</li>
+<li><strong>Type:</strong> Applied Project</li>
+<li><strong>Audience:</strong> Learners, Community Members</li>
+<li><strong>Theme:</strong> Organization, Communication</li>
 </ul>
 </div>
-<section id="learning-new-words" class="level2">
-<h2 class="anchored" data-anchor-id="learning-new-words">Learning New Words</h2>
-<p>Learning technology and communication sometimes introduces new words.</p>
-<p>Understanding common terms helps make learning easier.</p>
+<section id="supporting-information-sharing" class="level2">
+<h2 class="anchored" data-anchor-id="supporting-information-sharing">Supporting Information Sharing</h2>
+<p>Brochures help people learn about important topics.</p>
+<p>Unlike flyers that usually share one short message, brochures often provide more detailed information.</p>
+<p>Brochures may include:</p>
+<ul>
+<li>Health information</li>
+<li>Education opportunities</li>
+<li>Community programs</li>
+<li>Business information</li>
+<li>Learning activities</li>
+</ul>
+<p>Helping organize and support brochures is an important community activity.</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -354,181 +456,115 @@ Note
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Do not worry if you do not know every word immediately.</p>
-<p>New words become familiar through practice.</p>
+<p>Clear information helps people understand and make better decisions.</p>
 </div>
 </div>
 </section>
-<section id="computer-and-learning-terms" class="level2">
-<h2 class="anchored" data-anchor-id="computer-and-learning-terms">Computer and Learning Terms</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>English</th>
-<th>Swahili</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Computer</td>
-<td>Kompyuta</td>
-</tr>
-<tr class="even">
-<td>Keyboard</td>
-<td>Kibodi</td>
-</tr>
-<tr class="odd">
-<td>Mouse</td>
-<td>Kipanya</td>
-</tr>
-<tr class="even">
-<td>Screen</td>
-<td>Skrini</td>
-</tr>
-<tr class="odd">
-<td>Folder</td>
-<td>Folda</td>
-</tr>
-<tr class="even">
-<td>File</td>
-<td>Faili</td>
-</tr>
-<tr class="odd">
-<td>Document</td>
-<td>Hati</td>
-</tr>
-<tr class="even">
-<td>Picture</td>
-<td>Picha</td>
-</tr>
-<tr class="odd">
-<td>Password</td>
-<td>Nenosiri</td>
-</tr>
-<tr class="even">
-<td>Internet</td>
-<td>Intaneti</td>
-</tr>
-<tr class="odd">
-<td>Printer</td>
-<td>Printa</td>
-</tr>
-<tr class="even">
-<td>Project</td>
-<td>Mradi</td>
-</tr>
-<tr class="odd">
-<td>Learning</td>
-<td>Kujifunza</td>
-</tr>
-<tr class="even">
-<td>Community</td>
-<td>Jamii</td>
-</tr>
-<tr class="odd">
-<td>Opportunity</td>
-<td>Fursa</td>
-</tr>
-</tbody>
-</table>
+<section id="project-goal" class="level2">
+<h2 class="anchored" data-anchor-id="project-goal">Project Goal</h2>
+<p>Support the preparation, organization, and sharing of useful information materials.</p>
 </section>
-<section id="communication-terms" class="level2">
-<h2 class="anchored" data-anchor-id="communication-terms">Communication Terms</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>English</th>
-<th>Swahili</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Flyer</td>
-<td>Tangazo</td>
-</tr>
-<tr class="even">
-<td>Message</td>
-<td>Ujumbe</td>
-</tr>
-<tr class="odd">
-<td>Information</td>
-<td>Taarifa</td>
-</tr>
-<tr class="even">
-<td>Meeting</td>
-<td>Mkutano</td>
-</tr>
-<tr class="odd">
-<td>Event</td>
-<td>Tukio</td>
-</tr>
-<tr class="even">
-<td>Contact</td>
-<td>Mawasiliano</td>
-</tr>
-<tr class="odd">
-<td>Support</td>
-<td>Msaada</td>
-</tr>
-<tr class="even">
-<td>Design</td>
-<td>Ubunifu</td>
-</tr>
-<tr class="odd">
-<td>Share</td>
-<td>Kushiriki</td>
-</tr>
-<tr class="even">
-<td>Create</td>
-<td>Kuunda</td>
-</tr>
-</tbody>
-</table>
+<section id="skills-developed" class="level2">
+<h2 class="anchored" data-anchor-id="skills-developed">Skills Developed</h2>
+<p>Through this project you may practice:</p>
+<p>✓ Communication</p>
+<p>✓ Organization</p>
+<p>✓ Attention to detail</p>
+<p>✓ Teamwork</p>
+<p>✓ Responsibility</p>
+</section>
+<section id="project-flow" class="level2">
+<h2 class="anchored" data-anchor-id="project-flow">Project Flow</h2>
+<div class="cell" data-layout-align="default">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>flowchart LR</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>A[Receive Information]</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>A --&gt; B[Review Content]</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>B --&gt; C[Organize Materials]</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>C --&gt; D[Support Distribution]</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>D --&gt; E[Help Community]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+
+A[Receive Information]
+
+A --&gt; B[Review Content]
+
+B --&gt; C[Organize Materials]
+
+C --&gt; D[Support Distribution]
+
+D --&gt; E[Help Community]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="understanding-information" class="level2">
+<h2 class="anchored" data-anchor-id="understanding-information">Understanding Information</h2>
+<p>Before sharing information, ask:</p>
+<ul>
+<li>What is this brochure about?</li>
+<li>Who is the audience?</li>
+<li>Why is it useful?</li>
+<li>What action should people take?</li>
+</ul>
+<p>Understanding information helps prevent confusion.</p>
+</section>
+<section id="activity" class="level2">
+<h2 class="anchored" data-anchor-id="activity">Activity</h2>
+<p>Imagine you receive a brochure about:</p>
+<p><strong>Healthy Living in the Community</strong></p>
+<p>Complete the information below:</p>
+<section id="main-topic" class="level3">
+<h3 class="anchored" data-anchor-id="main-topic">Main Topic</h3>
+<hr>
+</section>
+<section id="audience" class="level3">
+<h3 class="anchored" data-anchor-id="audience">Audience</h3>
+<hr>
+</section>
+<section id="key-message" class="level3">
+<h3 class="anchored" data-anchor-id="key-message">Key Message</h3>
+<hr>
+</section>
+<section id="why-is-this-useful" class="level3">
+<h3 class="anchored" data-anchor-id="why-is-this-useful">Why is this useful?</h3>
+<hr>
+</section>
 </section>
 <section id="practice-activity" class="level2">
 <h2 class="anchored" data-anchor-id="practice-activity">Practice Activity</h2>
-<p>Match the words below:</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>English</th>
-<th>Swahili</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Keyboard</td>
-<td>__________</td>
-</tr>
-<tr class="even">
-<td>Community</td>
-<td>__________</td>
-</tr>
-<tr class="odd">
-<td>Project</td>
-<td>__________</td>
-</tr>
-<tr class="even">
-<td>Information</td>
-<td>__________</td>
-</tr>
-<tr class="odd">
-<td>Opportunity</td>
-<td>__________</td>
-</tr>
-</tbody>
-</table>
+<p>Work individually or with a group:</p>
+<ol type="1">
+<li><p>Read a brochure.</p></li>
+<li><p>Identify the main topic.</p></li>
+<li><p>Explain the information in your own words.</p></li>
+<li><p>Discuss who could benefit.</p></li>
+</ol>
 </section>
 <section id="reflection" class="level2">
 <h2 class="anchored" data-anchor-id="reflection">Reflection</h2>
 <p>Think about these questions:</p>
 <ol type="1">
-<li><p>Which words were already familiar?</p></li>
-<li><p>Which words were new?</p></li>
-<li><p>Which words would I like to remember?</p></li>
+<li><p>Why is organized information important?</p></li>
+<li><p>What did I learn from this activity?</p></li>
+<li><p>How can information help communities?</p></li>
 </ol>
 <hr>
-<p><em>“Learning new words opens new understanding.”</em></p>
+<p><em>“Good information creates understanding.”</em></p>
 
 
 </section>
@@ -937,13 +973,13 @@ Note
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../resources/jiongeze-learning-map.html" class="pagination-link" aria-label="Jiongeze Learning Map">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Jiongeze Learning Map</span></span>
+      <a href="../projects/01-flyer-distribution.html" class="pagination-link" aria-label="Project: Flyer Distribution">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Project: Flyer Distribution</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../resources/computer-basics.html" class="pagination-link" aria-label="Computer Basics">
-        <span class="nav-page-text"><span class="chapter-title">Computer Basics</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../projects/03-community-message-design.html" class="pagination-link" aria-label="Project: Community Message Design">
+        <span class="nav-page-text"><span class="chapter-title">Project: Community Message Design</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

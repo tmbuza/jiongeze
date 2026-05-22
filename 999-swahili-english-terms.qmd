@@ -1,0 +1,27 @@
+# Swahili-English Terms
+
+:::cdi-message
+- **ID:** JIO-R01
+- **Type:** Reference
+- **Audience:** Learners
+- **Theme:** Language Support
+:::
+
+| Swahili | English |
+|----------|----------|
+| Kompyuta | Computer |
+| Faili | File |
+| Folda | Folder |
+| Bonyeza | Click |
+| Hifadhi | Save |
+| Fungua | Open |
+| Chapisha | Print |
+| Mtandao | Internet |
+| Kibodi | Keyboard |
+| Kipanya | Mouse |
+
+## Notes
+
+Do not worry if you do not know all terms immediately.
+
+You will become familiar with them as you continue learning and practicing.

@@ -11,16 +11,17 @@
 
 This page provides an overview of the complete Jiongeze pathway.
 
-The journey moves from understanding, to learning, to action, and eventually to contribution.
+The journey moves from understanding, to learning, to action, and eventually to contribution and growth.
 
 ```{mermaid}
 flowchart LR
 
 A[Foundation] --> B[Learning]
 B --> C[Journey]
-C --> D[Projects]
-D --> E[Resources]
-E --> F[Growth]
+C --> D[Community Projects]
+D --> E[Reference Resources]
+E --> F[Appendices]
+F --> G[Growth]
 ```
 
 ## Foundation
@@ -53,7 +54,7 @@ E --> F[Growth]
 |---|---|
 | JIO-J01 | Hamis Idd Journey |
 
-## Projects
+## Community Projects
 
 | ID | Chapter |
 |---|---|
@@ -61,7 +62,7 @@ E --> F[Growth]
 | JIO-P02 | Brochure Support |
 | JIO-P03 | Community Message Design |
 
-## Resources
+## Reference Resources
 
 | ID | Chapter |
 |---|---|
@@ -69,12 +70,19 @@ E --> F[Growth]
 | JIO-R02 | Computer Basics |
 | JIO-R03 | Printing Workflow |
 
-## Closing
+## Appendices
 
 | ID | Chapter |
 |---|---|
-| JIO-999 | Appendix |
+| JIO-R04 | Community Resources |
+| JIO-R05 | Project Gallery |
+| JIO-R06 | Frequently Asked Questions |
+| JIO-R07 | Next Steps |
 
----
+## Learning Philosophy
 
-*"Learn → Practice → Create → Contribute → Grow"*
+Jiongeze is designed around a simple idea:
+
+**Learn → Practice → Create → Contribute → Grow**
+
+Small steps practiced consistently can become meaningful change.

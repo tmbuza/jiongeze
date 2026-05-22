@@ -1,0 +1,181 @@
+# Hamis Journey
+
+:::cdi-message
+- **ID:** JIO-J01
+- **Type:** Journey
+- **Audience:** Learners, Youth, Community Members
+- **Theme:** Real Stories, Growth, Possibility
+:::
+
+## About This Journey
+
+This story is based on Hamis' own experiences and words.
+
+The language has been lightly refined for clarity while preserving the original meaning and message.
+
+The goal is to share a real example of how learning can lead to opportunity, and how small steps can create meaningful change.
+
+## Small Steps Can Create Change
+
+Everyone begins somewhere.
+
+Some people start with skills.
+
+Some start with opportunities.
+
+Some start with curiosity.
+
+Hamis started with questions.
+
+He wanted to learn more about computers and how skills could help create opportunities.
+
+At first, many things felt unfamiliar.
+
+Using a keyboard felt slow.
+
+Finding files felt confusing.
+
+Learning new ideas sometimes felt difficult.
+
+But Hamis decided to continue trying.
+
+::: {.callout-note}
+Progress does not happen in one day.
+
+Progress happens through consistent effort.
+:::
+
+## Learning and Practice
+
+Hamis is beginning to learn simple things:
+
+- Typing
+- Opening files
+- Understanding folders
+- Reading flyers
+- Sharing information
+- Observing community needs
+
+Many activities still feel new.
+
+Some things feel easy.
+
+Some things feel difficult.
+
+Using a keyboard can feel slow.
+
+Finding files can feel confusing.
+
+Learning new ideas sometimes takes time.
+
+But Hamis continues practicing.
+
+Each day of practice becomes another small step forward.
+
+## Exploring New Tools
+
+As Hamis continued practicing, his curiosity started growing.
+
+He wanted to see what computers could do and how different tools worked.
+
+I showed him simple examples such as how to open programs and use basic features.
+
+The ideas themselves came from Hamis.
+
+On his own initiative, he started exploring different tools:
+
+- Using Word to write his own story
+- Using Excel to keep records of egg collection and sales
+- Using PowerPoint to create slides showing family pictures and descriptions
+
+This was both surprising and encouraging.
+
+These were not school assignments or activities I asked him to complete.
+
+They were ideas that came from Hamis himself.
+
+My role was to guide, encourage, and supervise while giving him space to explore and learn through his own curiosity.
+
+Through these small activities, Hamis is beginning to discover that computers are not only tools for learning.
+
+They can also help people organize information, tell stories, and share ideas.
+
+## Seeing Possibilities
+
+As Hamis continues learning, he is beginning to notice something.
+
+Learning is not only about understanding computers.
+
+Learning can also change how people think, observe, and understand the world around them.
+
+Simple activities slowly become opportunities to ask questions, recognize ideas, and discover new possibilities.
+
+Sometimes Hamis thinks:
+
+*"Maybe I can learn more."*
+
+*"Maybe I can do more."*
+
+*"Maybe I can help others too."*
+
+## Turning Learning into Action
+
+```{mermaid}
+flowchart LR
+
+A[Curiosity]
+A --> B[Learn]
+B --> C[Practice]
+C --> D[Build Confidence]
+D --> E[Discover Possibilities]
+```
+
+Hamis is still at the beginning of his journey.
+
+Every lesson, every question, and every activity creates another opportunity to learn something new.
+
+Learning is slowly becoming more than understanding how to use a computer.
+
+Through practice and curiosity, Hamis is beginning to discover that learning can help people express ideas, organize information, and explore new possibilities.
+
+## Lessons from Hamis
+
+So far, Hamis is learning that:
+
+✓ Learning takes time
+
+✓ Practice builds confidence
+
+✓ Questions create opportunities to learn
+
+✓ Curiosity helps us discover new things
+
+✓ Small steps matter
+
+✓ Growth happens gradually
+
+## Reflection
+
+Think about these questions:
+
+1. What do you notice about Hamis' journey so far?
+
+2. What challenges is Hamis experiencing as he learns new things?
+
+3. What can you learn from his experience?
+
+4. What small step can you take today?
+
+5. Is there something new you would like to learn?
+
+::: {.callout-tip}
+Every journey starts differently.
+
+You do not need to know everything before you begin.
+
+You only need curiosity, willingness, and consistency to continue learning.
+:::
+
+---
+
+*"Your journey does not begin when you know everything. It begins when you start."*

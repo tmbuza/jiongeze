@@ -1,0 +1,35 @@
+# Computer Basics
+
+:::cdi-message
+- **ID:** JIO-R02
+- **Type:** Reference
+- **Audience:** Learners
+- **Theme:** Digital Foundations
+:::
+
+## Main Computer Parts
+
+- Monitor
+- Keyboard
+- Mouse
+- CPU/System Unit
+- Printer
+
+## Basic Actions
+
+### Opening a file
+
+1. Locate the file
+2. Double click
+3. Wait for it to open
+
+### Saving work
+
+1. Click Save
+2. Choose a location
+3. Give the file a name
+4. Save
+
+## Reminder
+
+Learning computers becomes easier with repeated practice.

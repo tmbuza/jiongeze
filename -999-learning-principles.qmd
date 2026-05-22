@@ -1,0 +1,50 @@
+# Learning Principles
+
+:::cdi-message
+- **ID:** JIO-R04
+- **Type:** Appendix
+- **Audience:** Learners, Mentors, Communities
+- **Theme:** Learning, Practice, Growth
+:::
+
+Jiongeze follows a simple approach:
+
+## Learn
+
+Build understanding.
+
+## Practice
+
+Apply what you learn.
+
+## Create
+
+Develop ideas and projects.
+
+## Contribute
+
+Help communities and others.
+
+## Grow
+
+Continue improving.
+
+## Learning Cycle
+
+```{mermaid}
+flowchart LR
+
+A[Learn]
+
+A --> B[Practice]
+
+B --> C[Create]
+
+C --> D[Contribute]
+
+D --> E[Grow]
+
+E --> A
+```
+
+Learning continues throughout life.

@@ -1,0 +1,31 @@
+# Printing Workflow
+
+:::cdi-message
+- **ID:** JIO-R03
+- **Type:** Reference
+- **Audience:** Learners
+- **Theme:** Practical Skills
+:::
+
+## Basic Printing Steps
+
+1. Open the document
+2. Review the document
+3. Click Print
+4. Select printer
+5. Check page settings
+6. Print
+
+## Before Printing
+
+Check:
+
+- spelling
+- page orientation
+- number of pages
+- images
+- margins
+
+## Reminder
+
+Always preview before printing.

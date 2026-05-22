@@ -1,0 +1,35 @@
+# About This Guide
+
+:::cdi-message
+- **ID:** JIO-R00
+- **Type:** Appendix
+- **Audience:** Learners, Mentors, Communities
+- **Theme:** Guide Structure and Purpose
+:::
+
+## Welcome
+
+Jiongeze is designed to help learners build confidence through practical learning, community observation, and real-world activities.
+
+The goal is not only to learn computer skills, but also to develop:
+
+- confidence
+- communication
+- problem solving
+- observation
+- collaboration
+- community impact
+
+## How to Use This Guide
+
+You do not need to complete everything perfectly.
+
+Move step by step:
+
+Learn → Practice → Reflect → Apply
+
+## Learning Philosophy
+
+Small actions create larger growth.
+
+Each lesson builds on the previous lesson and connects learning to everyday life and community experiences.

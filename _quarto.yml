@@ -11,6 +11,7 @@ book:
   subtitle: "From Knowledge to Opportunity"
 
   chapters:
+
     - index.qmd
 
     - part: "Jiongeze"
@@ -31,27 +32,34 @@ book:
         - learning/05-community-observation.qmd
         - learning/06-understanding-flyers.qmd
         - learning/07-sharing-files.qmd
-        - learning/08-first-community-project.qmd
+        - learning/08-my-first-community-project.qmd
 
     - part: "Journeys"
       chapters:
-        - journeys/hamis-idd.qmd
+        - journeys/01-hamis-journey.qmd
 
-    - part: "Projects"
+    - part: "Community Projects"
       chapters:
-        - projects/flyer-distribution.qmd
-        - projects/brochure-support.qmd
-        - projects/community-message-design.qmd
+        - projects/01-flyer-distribution.qmd
+        - projects/02-brochure-support.qmd
+        - projects/03-community-message-design.qmd
 
-    - part: "Resources"
+    - part: "Reference Resources"
       chapters:
-        - resources/jiongeze-learning-map.qmd
-        - resources/swahili-english-terms.qmd
-        - resources/computer-basics.qmd
-        - resources/printing-workflow.qmd
+        - resources/01-jiongeze-learning-map.qmd
+        - resources/02-swahili-english-terms.qmd
+        - resources/03-computer-basics.qmd
+        - resources/04-printing-workflow.qmd
 
-    - 999-appendix.qmd
-
+  appendices:
+    - 999-about-this-guide.qmd
+    - 999-swahili-english-terms.qmd
+    - 999-computer-basics.qmd
+    - 999-printing-workflow.qmd
+    - 999-community-resources.qmd
+    - 999-project-gallery.qmd
+    - 999-frequently-asked-questions.qmd
+    - 999-next-steps.qmd
 
 format:
   html:

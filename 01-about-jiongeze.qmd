@@ -1,4 +1,4 @@
-# About Jiongeze {-}
+# About Jiongeze
 
 :::cdi-message
 - **ID:** JIO-001

@@ -1,0 +1,26 @@
+# Frequently Asked Questions
+
+:::cdi-message
+- **ID:** JIO-R06
+- **Type:** Reference
+- **Audience:** Learners
+- **Theme:** Common Questions
+:::
+
+## I have never used a computer before. Can I still learn?
+
+Yes. Everyone starts somewhere.
+
+## What if I make mistakes?
+
+Mistakes help us learn and improve.
+
+## Do I need internet all the time?
+
+No. Many activities can also be practiced offline.
+
+## How fast should I learn?
+
+Learn at your own pace.
+
+Growth happens step by step.

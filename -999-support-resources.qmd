@@ -1,4 +1,4 @@
-# Appendix 
+# Supporting Resources
 
 :::cdi-message
 - **ID:** JIO-999
